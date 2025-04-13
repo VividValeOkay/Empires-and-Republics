@@ -15,7 +15,6 @@
 		"movement": 2,
 		"strength": 5,
 		"cost": 40,
-		"upgradesTo": "Swordsman",
 		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
