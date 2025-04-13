@@ -9,4 +9,16 @@
 			{"text":"Appearance changes with the technological era of the owning civilization"}
 		]
 	},
+		{
+		"name": "Farm",
+		"terrainsCanBeBuiltOn": ["Grassland"],
+		"food": 2,
+		"turnsToBuild": 7,
+		"techRequired": "Agriculture",
+		"uniques": ["Can also be built on tiles adjacent to fresh water",
+			"[+1 Food] from [Fresh water] tiles",
+			"[+1 Food] from [non-fresh water] tiles",
+            "Pillaging this improvement yields approximately [+18 Gold]"],
+		"shortcutKey": "F"
+	},
 ]
