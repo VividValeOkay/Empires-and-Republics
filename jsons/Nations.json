@@ -1,0 +1,46 @@
+[
+  {
+    "name": "England",
+    "leaderName": "Victoria",
+    "adjective": ["English"],
+
+    "declaringWar": "To War!",
+    "attcked": "You won't win this war!",
+    "defeated": "The sun sets on the empire...",
+    "introduction": "Victoria, queen of Great Britian and Ireland.",
+
+    "neutralHello": "Good morning",
+    "hateHello": "What is it?",
+
+    "tradeRequest": "Would you accept a trade agreement with England?",
+
+    "outerColor": [254,250,248],
+    "innerColor": [228,8,10],
+    "uniqueName": "Rule Britannia",
+    "cities": ["London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
+			"Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
+			"Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton",
+			"Sheffield","Salisbury","Colchester","Plymouth","Lancaster","Blackpool","Winchester","Hull"],
+  },
+    {
+    "name": "Sumer",
+    "leaderName": "Gilgamesh",
+    "adjective": ["Sumerian"],
+
+    "declaringWar": "The demon wants the blood of soldiers!",
+    "attcked": "You won't win this war!",
+    "defeated": "It is over. Perhaps now I shall have peace, at last.",
+    "introduction": "Are you real or a phantom?",
+
+    "neutralHello": "Good morning",
+    "hateHello": "What is it?",
+
+    "tradeRequest": "Would you accept a trade agreement with Sumeria?",
+
+    "outerColor": [27,53,63],
+    "innerColor": [213,249,255],
+    "uniqueName": "Ancient World",
+    "cities": ["Sumer"],
+  },
+]
+    
