@@ -31,7 +31,7 @@
 				"name": "Communication",
 				"row": 3,
 				"prerequisites": ["Fire"],
-				"uniques": "[+1 Science] per [4] population [in capital]",
+				"uniques": ["[+1 Science] per [4] population [in capital]"],
 				"quote": "'Gneurshk.' - Bill Wurts",
 			},
     ]
