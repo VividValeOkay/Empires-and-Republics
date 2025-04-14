@@ -33,6 +33,7 @@
 		"strength": 5,
 		"cost": 65,
 		"requiredTech": "Spears",
+		"requiredResource": "Stone",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit",
 	},
