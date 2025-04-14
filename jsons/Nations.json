@@ -70,5 +70,34 @@
 			"Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",
 			"Yichang","Yingtian","Xinyu","Xinzheng","Handan","Dunhuang","Gaoyu","Nantong","Weifang","Xikang"],
   },
+
+	// city-states
+
+	{
+		"name": "Scythia",
+		"adjective": ["Scythian"],
+		"startBias": ["Avoid [Coast]"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "The Empress calls for your head. You will be drowned in your own blood!",
+		"attacked": "You have betrayed the trust of Tomyris and now you will pay!",
+		"defeated": "The Empress falls, but I will be remembered. Will you?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [254,0,4],
+		"cities": ["Pokrovka"],
+	},
+	{
+		"name": "Morocco",
+		"adjective": ["Moroccan"],
+		"startBias": ["Coast","Avoid [Tundra]"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We were too weak to protect ourselves...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [40,179,79],
+		"cities": ["Marrakech"]
+	},
 ]
     
