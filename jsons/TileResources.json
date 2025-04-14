@@ -30,7 +30,7 @@
 	{
 		"name": "Copper",
 		"resourceType": "Strategic",
-		"terrainsCanBeFoundOn": ["Hill","Forest","Jungle","Grassland","Tundra"],
+		"terrainsCanBeFoundOn": ["Hill","Forest","Grassland","Tundra"],
 		"gold": 2,
 		"revealedBy": "Bronze Working",
 		"improvement": "Mine",
