@@ -5,10 +5,10 @@
     "adjective": ["English"],
     "startBias": ["Coast","Grassland"],
 
-    "declaringWar": "To War!",
+    "declaringWar": "As our protests are in vain, we hereby declare war.",
     "attacked": "You won't win this war!",
     "defeated": "The sun sets on the empire...",
-    "introduction": "Victoria, queen of Great Britian and Ireland.",
+    "introduction": "Greetings. We are by the Grace of God, Victoria, Queen of the United Kingdom of Great Britain and Ireland. And soon, dare I say, the empire.",
 
     "neutralHello": "Good morning",
     "hateHello": "What is it?",
@@ -37,7 +37,7 @@
     "neutralHello": "Hello!",
     "hateHello": "What do you want?",
 
-    "tradeRequest": "What do you  have to trade with, my friend?",
+    "tradeRequest": "What do you have to trade with, my friend?",
 
     "outerColor": [27,53,63],
     "innerColor": [213,249,255],
@@ -53,9 +53,9 @@
     "startBias": ["Grassland"],
 
     "declaringWar": "I do not support of your rule, I must destroy you!",
-    "attacked": "Fool! I will disembowel you all!",
+    "attacked": "You may as well seek to conquer heaven itself. Let us see how high your arrows fly.",
     "defeated": "Even if I am defeated, my father would be proud of my actions...",
-    "introduction": "Hello, I am Yongle, emperor of the Ming dynasty.",
+    "introduction": "I am the Yongle Emperor, friend to those who would steer their trade ships in my direction, and terrible to those who oppose me.",
 
     "neutralHello": "How are you today?",
     "hateHello": "Oh. It's you?",
@@ -70,6 +70,29 @@
 			"Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",
 			"Yichang","Yingtian","Xinyu","Xinzheng","Handan","Dunhuang","Gaoyu","Nantong","Weifang","Xikang"],
   },
+  {
+    "name": "India",
+    "leaderName": "Chandragupta",
+    "adjective": ["Indian"],
+
+    "declaringWar": "Your territory could be much improved under Indian rule. Best I see it through.",
+    "attacked": "India does not fear war. The most you can do is slow our rightful advance.",
+    "defeated": "You learned my own lessons far too well. I instructed you in my own demise.",
+    "introduction": "I am Chandragupta, Mauryan emperor of unified India. No, it has not gone to my head.",
+
+    "neutralHello": "You travel near Indian territory. Why not visit and relax at our grand stepwells?",
+    "hateHello": "What do you want?",
+
+    "tradeRequest": "Our delegation brings many gifts. Drink all the spiced buttermilk you desire! We can always send more.",
+
+    "outerColor": [77,16,198],
+    "innerColor": [9,194,155],
+    "uniqueName": "Maurya Empire",
+    "cities": ["Pataliputra","Mumbai","Vijayanagara","Delhi","Varanasi","Agra","Calcutta","Lahore","Bangalore","Hyderabad","Madurai","Ahmedabad",
+			"Kolhapur","Prayaga","Ayodhya","Indraprastha","Mathura","Ujjain","Gulbarga","Jaunpur","Rajagriha","Sravasti","Tiruchirapalli","Thanjavur",
+			"Bodhgaya","Kushinagar","Amaravati","Gaur","Gwalior","Jaipur","Karachi"],
+  },
+
 
 	// city-states
 
