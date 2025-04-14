@@ -37,4 +37,26 @@
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit",
 	},
+	{
+		"name": "Slinger",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 3,
+		"rangedStrength": 6,
+		"cost": 40,
+		"obsoleteTech": "Archery",
+		"upgradesTo": "Archer",
+		"promotions": ["Slinger Withdraw"],
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Archer",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 5,
+		"rangedStrength": 8,
+		"cost": 50,
+		"requiredTech": "Archery",
+		"attackSound": "arrow"
+	},
 ]
