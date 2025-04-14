@@ -49,4 +49,13 @@
 		"uniques": ["[+1 Science] per [4] population [in this city]","[+1 Happiness] per [6] population [in this city]"],
 		"requiredTech": "Writing",
 	},
+	{
+		"name": "Water Mill",
+		"maintenance": 2,
+		"food": 2,
+		"production": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["Must be on [River]"],
+		"requiredTech": "The Wheel"
+	},
 ]
