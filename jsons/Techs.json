@@ -128,6 +128,12 @@
 				"prerequisites": ["Pottery"],
 				"quote": "'He who destroys a good book kills reason itself.' - John Milton"
 			},
+			{
+				"name": "The Wheel",
+				"row": 6,
+				"prerequisites": ["Animal Husbandry", "Archery"],
+				"quote": "'Wisdom and virtue are like the two wheels of a cart.' - Japanese proverb"
+			},
 		],
 	},
 ]
