@@ -5,7 +5,7 @@
     "adjective": ["English"],
 
     "declaringWar": "To War!",
-    "attcked": "You won't win this war!",
+    "attacked": "You won't win this war!",
     "defeated": "The sun sets on the empire...",
     "introduction": "Victoria, queen of Great Britian and Ireland.",
 
@@ -28,7 +28,7 @@
     "adjective": ["Sumerian"],
 
     "declaringWar": "The demon wants the blood of soldiers!",
-    "attcked": "I will enjoy hearing your last breath as you witness the destruction of your people.",
+    "attacked": "I will enjoy hearing your last breath as you witness the destruction of your people.",
     "defeated": "It is over. Perhaps now I shall have peace, at last.",
     "introduction": "I am Gilgamesh of Sumer and king of Uruk. Do not be afraid, I am good to my friends.",
 
@@ -50,7 +50,7 @@
     "adjective": ["Chinese"],
 
     "declaringWar": "I do not support of your rule, I must destroy you!",
-    "attcked": "Fool! I will disembowel you all!",
+    "attacked": "Fool! I will disembowel you all!",
     "defeated": "Even if I am defeated, my father would be proud of my actions...",
     "introduction": "Hello, I am Yongle, emperor of the Ming dynasty.",
 
