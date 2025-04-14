@@ -49,7 +49,7 @@
             {
                 "name": "Civilisation",
                 "uniques": [
-                    "[+1 Gold, +1 Happiness] per [2] population [in capital]"
+                    "[+1 Gold, +1 Happiness] per [2] population [in capital]","[-20]% Culture cost of adopting new Policies <before adopting [Tribalism Complete]>"
                 ],
                 "requires": ["Kinship","Mythology","Settlements"],
                 "row": 2,
