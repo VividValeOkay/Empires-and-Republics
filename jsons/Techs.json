@@ -64,6 +64,7 @@
 			{
 				"name": "Civilise",
 				"row": 6,
+				"prerequisites": ["Agriculture","Communication","Mining","Hunting","Spears"],
 				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
 			},
 		]
