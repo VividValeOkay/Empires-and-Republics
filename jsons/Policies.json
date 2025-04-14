@@ -31,7 +31,7 @@
             {
                 "name": "Settlements",
                 "uniques": [
-                    "[+50]% Strength for cities <with a garrison> <when attacking>",
+                    "[+50]% Strength for cities <with a garrison> <when attacking>","[-20]% Culture cost of adopting new Policies <before adopting [Tribalism Complete]>"
                 ],
                 "row": 1,
                 "column": 5
