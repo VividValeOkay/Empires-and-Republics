@@ -68,4 +68,20 @@
 					"Generated near City States with weight [15]",
 					"Doesn't generate naturally <in [Hill] tiles>"],
 	},
+	{
+		"name": "Salt",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Desert","Tundra","Forest"],
+		"gold": 1,
+		"food": 1,
+		"improvement": "Mine",
+		"improvementStats": {"food": 1},
+		"uniques": ["Generated with weight [15] <in [Tundra] Regions>",
+					"Generated with weight [5] <in [Forest] Regions>",
+					"Generated with weight [15] <in [Desert] Regions>",
+					"Generated with weight [10] <in [Hill] Regions>",
+					"Generated with weight [15] <in [Hybrid] Regions>",
+					"Generated near City States with weight [10]",
+					"Doesn't generate naturally <in [{Forest} {Hill}] tiles>"]
+	},
 ]
