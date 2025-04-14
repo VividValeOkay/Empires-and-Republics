@@ -42,4 +42,11 @@
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured"]
 	},
+	{
+		"name": "Library",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["[+1 Science] per [4] population [in this city]","[+1 Happiness] per [6] population [in this city]"],
+		"requiredTech": "Writing",
+	},
 ]
