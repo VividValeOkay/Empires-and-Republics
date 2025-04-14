@@ -16,6 +16,6 @@
 		"food": 1,
     "revealedBy": "Hunting",
 		"improvement": "Fishing Boats",
-		"uniques": ["Generated on every [10] tiles <in [{Featureless} {Coast}] tiles>","Generated on every [8] tiles <in [{Featureless} {Ocean}] tiles>"]
+		"uniques": ["Generated on every [10] tiles <in [{Featureless} {Coast}] tiles>","Generated on every [8] tiles <in [{Featureless} {Ocean}] tiles>"],
 	},
 ],
