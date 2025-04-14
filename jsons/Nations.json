@@ -32,7 +32,7 @@
     "defeated": "It is over. Perhaps now I shall have peace, at last.",
     "introduction": "I am Gilgamesh of Sumer and king of Uruk. Do not be afraid, I am good to my friends.",
 
-    "neutralHello": "Hello",
+    "neutralHello": "Hello!",
     "hateHello": "What do you want?",
 
     "tradeRequest": "What do you  have to trade with, my friend?",
@@ -43,6 +43,29 @@
     "cities": ["Uruk","Eridu","Kish","Ur","Lagash","Nippur","Bad-Tibira","Sippar","Shuruppak","Adab","Isin","Hamazi","Larak","Abu Salabikh",
 		"Umma","Larsa","Girsu","Jemdet Nasr","Nina","Kuara","Dilbat","Kutha","Marad",
 		"Zabalam","Kisurra","Pazurish-Dagan","Harbidum","Kesh","Fallaka"],
+  },
+  {
+    "name": "China",
+    "leaderName": "Yongle",
+    "adjective": ["Chinese"],
+
+    "declaringWar": "I do not support of your rule, I must destroy you!",
+    "attcked": "Fool! I will disembowel you all!",
+    "defeated": "Even if I am defeated, my father would be proud of my actions...",
+    "introduction": "Hello, I am Yongle, emperor of the Ming dynasty.",
+
+    "neutralHello": "How are you today?",
+    "hateHello": "Oh. It's you?",
+
+    "tradeRequest": "What do you  have to trade with, my friend?",
+
+    "outerColor": [9,112,84],
+    "innerColor": [255,255,255],
+    "uniqueName": "Ming Dynasty",
+    "cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong",
+			"Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang",
+			"Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",
+			"Yichang","Yingtian","Xinyu","Xinzheng","Handan","Dunhuang","Gaoyu","Nantong","Weifang","Xikang"],
   },
 ]
     
