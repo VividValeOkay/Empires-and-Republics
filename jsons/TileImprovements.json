@@ -23,7 +23,7 @@
 	},
 	{
 		"name": "Mine",
-		"terrainsCanBeBuiltOn": ["Hill"],
+		"terrainsCanBeBuiltOn": ["Grassland","Desert","Tundra"],
 		"production": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Mining",
