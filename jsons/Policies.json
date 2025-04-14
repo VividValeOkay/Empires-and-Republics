@@ -15,7 +15,7 @@
             {
                 "name": "Kinship",
                 "uniques": [
-                    "[+1 Happiness] per [8] population [in all cities]"
+                    "[+1 Happiness] per [8] population [in all cities]","[-20]% Culture cost of adopting new Policies <before adopting [Tribalism Complete]>"
                 ],
                 "row": 1,
                 "column": 1
@@ -23,7 +23,7 @@
             {
                 "name": "Mythology",
                 "uniques": [
-                    "[+1 Faith] per [6] population [in all cities]"
+                    "[+1 Faith] per [6] population [in all cities]","[-20]% Culture cost of adopting new Policies <before adopting [Tribalism Complete]>"
                 ],
                 "row": 1,
                 "column": 3
