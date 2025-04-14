@@ -32,6 +32,7 @@
 		"resourceType": "Strategic",
 		"terrainsCanBeFoundOn": ["Hill","Forest","Jungle","Grassland","Tundra"],
 		"gold": 2,
+		"revealedBy": "Bronze working",
 		"improvement": "Mine",
 		"uniques": ["Generated with weight [15] <in [Tundra] Regions>",
 					"Generated with weight [5] <in [Forest] Regions>",
