@@ -9,7 +9,7 @@
 		"improvementStats": {"production": 1},
 		"uniques": ["Generated on every [20] tiles <in [{Featureless} {Grassland}] tiles>"],
 	},
-  {
+        {
 		"name": "Fish",
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Coast","Ocean"],
@@ -18,4 +18,4 @@
 		"improvement": "Fishing Boats",
 		"uniques": ["Generated on every [10] tiles <in [{Featureless} {Coast}] tiles>","Generated on every [8] tiles <in [{Featureless} {Ocean}] tiles>"],
 	},
-],
+]
