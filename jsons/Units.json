@@ -58,4 +58,13 @@
 		"requiredTech": "Archery",
 		"attackSound": "arrow"
 	},
+	{
+		"name": "Work Boats",
+		"unitType": "Civilian Water",
+		"movement": 3,
+		"cost": 20,
+		"requiredTech": "Fishing",
+		"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources",
+            "Uncapturable", "Automation is a primary action"]
+	},
 ]
