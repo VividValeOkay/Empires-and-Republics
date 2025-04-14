@@ -19,8 +19,8 @@
 		"name": "Warrior",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 5,
-		"cost": 40,
+		"strength": 3,
+		"cost": 30,
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "This is your basic, club-swinging tribesman."}
