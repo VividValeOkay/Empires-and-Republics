@@ -67,4 +67,14 @@
 		"uniques": ["Cannot enter ocean tiles", "May create improvements on water resources",
             "Uncapturable", "Automation is a primary action"]
 	},
+	{
+		"name": "Spearman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 9,
+		"cost": 65,
+		"requiredTech": "Bronze Working",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit"
+	},
 ]
