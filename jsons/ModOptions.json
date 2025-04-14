@@ -1,7 +1,7 @@
 {
     "isBaseRuleset": true,
      "constants": {
-            "policyCostModifier": 0.6,
+            "policyCostModifier": 1.7,
             "cityStrengthBase": 20,
             "cityStrengthFromTechsMultiplier": 3,
             "cityStrengthPerPop": 1,
