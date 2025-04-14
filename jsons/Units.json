@@ -74,6 +74,7 @@
 		"strength": 9,
 		"cost": 65,
 		"requiredTech": "Bronze Working",
+		"requiredResource": "Copper",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
 	},
