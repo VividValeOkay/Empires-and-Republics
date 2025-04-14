@@ -122,5 +122,17 @@
 		"innerColor": [40,179,79],
 		"cities": ["Marrakech"]
 	},
+	{
+		"name": "Afghanistan",
+		"adjective": ["Afghan"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [168,38,102],
+		"cities": ["Kabul"]
+	},
 ]
     
