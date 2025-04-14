@@ -19,9 +19,19 @@
 	},
         {
 		"name": "Campfire",
-		"culture": 2,
+		"culture": 1,
+		"happiness": 1,
 		"cost": 40,
 		"requiredTech": "Fire",
 		"uniques": ["Unavailable <after discovering [Ancient era]>"],
+	},
+{
+		"name": "Monument",
+		"culture": 2,
+		"cost": 40,
+		"hurryCostModifier": 40,
+	        "requiredTech": "Pottery",
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured"]
 	},
 ]
