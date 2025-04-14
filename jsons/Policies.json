@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Tribalism",
+        "era": "Neolithic era",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 5,
+            "Diplomatic": 5,
+            "Domination": 5,
+            "Scientific": 5
+        },
+        "uniques": [
+            "[+1 Culture] [in capital]"],
+        "policies": [
+            {
+                "name": "Kinship",
+                "uniques": [
+                    "[+1 Happiness] per [8] population [in all cities]"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Mythology",
+                "uniques": [
+                    "[+1 Faith] per [6] population [in all cities]"
+                ],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "Settlements",
+                "uniques": [
+                    "[+50]% Strength for cities <with a garrison> <when attacking>",
+                ],
+                "row": 1,
+                "column": 5
+            },
+            {
+                "name": "Food Preservation",
+                "uniques": [
+                    "[+10]% growth [in capital]",
+                    "[+1 Food] [in capital]"
+                ],
+                "requires": ["Settlements"],
+                "row": 2,
+                "column": 4
+            },
+            {
+                "name": "Civilisation",
+                "uniques": [
+                    "[+1 Gold, +1 Happiness] per [2] population [in capital]"
+                ],
+                "requires": ["Kinship","Mythology","Settlements"],
+                "row": 2,
+                "column": 2
+            },
+            {
+                "name": "Tribalism Complete",
+                "uniques": [
+                    "[+15]% growth [in all cities]",
+                    "Provides a [Aqueduct] in your first [4] cities for free"
+                ]
+            }
+        ]
+    },
+],
