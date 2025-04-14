@@ -36,4 +36,11 @@
 		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "P"
 	},
+	{
+		"name": "Quarry",
+		"turnsToBuild": 8,
+		"techRequired": "Masonry",
+		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+20 Gold]"],
+		"shortcutKey": "Q"
+	},
 ]
