@@ -34,4 +34,12 @@
 		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured"]
 	},
+	{
+		"name": "Walls",
+		"cityStrength": 3,
+		"cityHealth": 20,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["Destroyed when the city is captured"]
+	},
 ]
