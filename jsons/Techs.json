@@ -122,6 +122,12 @@
 				"prerequisites": ["Pottery","Bronze Working"],
 				"quote": "'How happy are those whose walls already rise!' - Virgil"
 			},
+			{
+				"name": "Writing",
+				"row": 2,
+				"prerequisites": ["Pottery"],
+				"quote": "'He who destroys a good book kills reason itself.' - John Milton"
+			},
 		],
 	},
 ]
