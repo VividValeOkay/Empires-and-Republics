@@ -14,7 +14,7 @@
         {
 		"name": "Granary",
 		"food": 2,
-		"hurryCostModifier": 25,
+		"cost": 60,
 		"uniques": ["[+1 Food] from [Farm] tiles [in this city]"],
 	},
         {
