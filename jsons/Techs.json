@@ -116,4 +116,12 @@
 		"buildingCost": 75,
 		"wonderCost": 185,
 		"techs": [
+				{
+				"name": "Masonry",
+				"row": 9,
+				"prerequisites": ["Pottery","Bronze Working"],
+				"quote": "'How happy are those whose walls already rise!' - Virgil"
+			},
+		],
+	},
 ]
