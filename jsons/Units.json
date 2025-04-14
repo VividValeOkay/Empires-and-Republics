@@ -26,4 +26,14 @@
 			{"text": "This is your basic, club-swinging tribesman."}
 		]
 	},
+	{
+		"name": "Neolithic Spearman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 5,
+		"cost": 65,
+		"requiredTech": "Spears",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit",
+	},
 ]
