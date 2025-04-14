@@ -109,4 +109,11 @@
 			},
 		],
 	},
+	{
+		"columnNumber": 4,
+		"era": "Ancient era",
+		"techCost": 55,
+		"buildingCost": 75,
+		"wonderCost": 185,
+		"techs": [
 ]
