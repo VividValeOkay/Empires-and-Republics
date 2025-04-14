@@ -40,7 +40,7 @@
                 "name": "Food Preservation",
                 "uniques": [
                     "[+10]% growth [in capital]",
-                    "[+1 Food] [in capital]"
+                    "[+1 Food] [in capital]","[-20]% Culture cost of adopting new Policies <before adopting [Tribalism Complete]>"
                 ],
                 "requires": ["Settlements"],
                 "row": 2,
