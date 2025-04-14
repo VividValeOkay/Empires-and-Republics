@@ -3,6 +3,7 @@
     "name": "England",
     "leaderName": "Victoria",
     "adjective": ["English"],
+    "startBias": ["Coast","Grassland"],
 
     "declaringWar": "To War!",
     "attacked": "You won't win this war!",
@@ -26,6 +27,7 @@
     "name": "Sumer",
     "leaderName": "Gilgamesh",
     "adjective": ["Sumerian"],
+    "startBias": ["Desert","Flood plains"]
 
     "declaringWar": "The demon wants the blood of soldiers!",
     "attacked": "I will enjoy hearing your last breath as you witness the destruction of your people.",
@@ -48,6 +50,7 @@
     "name": "China",
     "leaderName": "Yongle",
     "adjective": ["Chinese"],
+    "startBias": ["Grassland"],
 
     "declaringWar": "I do not support of your rule, I must destroy you!",
     "attacked": "Fool! I will disembowel you all!",
