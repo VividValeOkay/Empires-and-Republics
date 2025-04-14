@@ -7,10 +7,10 @@
         "name": "Civilian",
         "movementType": "Land",
   },
- {
-        "name": "WaterCivilian",
+  {
+        "name": "Civilian Water",
         "movementType": "Water"
-    },
+  },
   {
         "name": "Archery",
         "movementType": "Land",
