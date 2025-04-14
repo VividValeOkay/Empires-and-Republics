@@ -17,4 +17,11 @@
 		"hurryCostModifier": 25,
 		"uniques": ["[+1 Food] from [Farm] tiles [in this city]"],
 	},
+        {
+		"name": "Campfire",
+		"culture": 2,
+		"cost": 40,
+		"requiredTech": "Fire",
+		"uniques": ["Unavailable <after discovering [Ancient era]>"],
+	},
 ]
