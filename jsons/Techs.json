@@ -169,6 +169,12 @@
 				"prerequisites": ["Carpentry","Masonry"],
 				"quote": "'Here Hector entered, with a spear eleven cubits long in his hand; the bronze point gleamed in front of him, and was fastened to the shaft of the spear by a ring of gold.' - Homer"
 			}
+			{
+				"name": "Mathematics",
+				"row": 2,
+				"prerequisites": ["The Wheel", "Writing"],
+				"quote": "'Mathematics is the gate and key to the sciences.' - Roger Bacon"
+			},
 		],
 	},
 ]
