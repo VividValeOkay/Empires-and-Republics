@@ -1,8 +1,8 @@
 [
-{
+  {
         "name": "Sword",
         "movementType": "Land",
-},
+  },
   {
         "name": "Civilian",
         "movementType": "Land",
@@ -12,7 +12,11 @@
         "movementType": "Water"
   },
   {
+        "name": "Melee Water",
+        "movementType": "Water"
+  },
+  {
         "name": "Archery",
         "movementType": "Land",
-    },
+  },
 ]
