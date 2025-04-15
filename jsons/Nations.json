@@ -111,6 +111,7 @@
     "outerColor": [209,33,33],
     "innerColor": [231,214,21],
     "uniqueName": "Veni, Vidi, Vici",
+    "uniques": ["All newly-trained [Military] units [in all cities] receive the [Legions Finest] promotion"],
     "cities": ["Roma","Antium","Cumae","Neapolis","Ravenna","Arretium","Mediolanum","Arpinum","Circei","Setia",
 			"Satricum","Ardea","Ostia","Velitrae","Viroconium","Tarentum","Brundisium","Caesaraugusta","Caesarea","Palmyra",
 			"Signia","Aquileia","Clusium","Sutrium","Cremona","Placentia","Hispalis","Artaxata","Aurelianorum","Nicopolis",
