@@ -141,6 +141,13 @@
 				"uniques": ["[+15]% Production when constructing [Building] buildings [in this city]"],
 				"quote": "'Three things are to be looked to in a building: that it stands on the right spot; that it be securely founded; that it be successfully executed.' - Johann Wolfgang von Goethe"
 			}
+			{
+				"name": "Sailing",
+				"row": 10,
+				"prerequisites": ["Bronze Working"],
+                "uniques": ["[+100]% weight to this choice for AI decisions"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+			},
 		],
 	},
 ]
