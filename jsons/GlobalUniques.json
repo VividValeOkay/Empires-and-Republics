@@ -3,5 +3,6 @@
   "uniques": [
     "[-80]% Culture cost of adopting new Policies <before adopting [Tribalism Complete]>",
     "Can only start games from the starting era",
+    "Cannot build [Water] units <in cities without a [Port]>",
   ]
 }
