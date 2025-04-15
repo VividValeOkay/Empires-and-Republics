@@ -10,4 +10,11 @@
         "column": 0
     },
 
+	// Unique
+
+        {
+		"name": "Legions Finest",
+		"uniques": ["[+25]% XP gained from combat"]
+	},
+
 ]
