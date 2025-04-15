@@ -121,6 +121,33 @@
 			"Signia","Aquileia","Clusium","Sutrium","Cremona","Placentia","Hispalis","Artaxata","Aurelianorum","Nicopolis",
 			  "Agrippina","Verona","Corfinium","Treverii","Sirmium","Augustadorum","Curia","Interrama","Adria"],
   },
+ {
+    "name": "Germany",
+    "leaderName": "Wilhelm II",
+    "adjective": ["German"],
+    "startBias": ["Grassland"],
+
+    "declaringWar": "I cannot wait until ye grow even mightier. Therefore, prepare for war!",
+    "attacked": "Corrupted villain! We will bring you into the ground!",
+    "defeated": "Germany has been destroyed. I weep for the future generations.",
+    "introduction": "Guten Tag. In the name of the great German people, I bid you welcome.",
+
+    "neutralHello": "What now?",
+    "hateHello": "So, out with it!",
+
+    "tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
+
+    "outerColor": [179,178,184],
+    "innerColor": [37,43,33],
+    "uniqueName": "Iron Ordnance",
+    "uniques": ["[+15]% Strength <for [Water] units>","[+20]% [Production] <in [all] cities>"],
+    "cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Düsseldorf","Bremen",
+			"Hannover","Duisburg","Leipzig","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
+			"Münster","Rostock","Chemnitz","Braunschweig","Halle","Mönchengladbach","Kiel","Wuppertal","Freiburg","Hagen",
+			"Erfurt","Kaiserslautern","Kassel","Oberhausen","Hamm","Saarbrücken","Krefeld","Pirmasens","Potsdam","Solingen",
+			"Osnabrück","Ludwigshafen","Leverkusen","Oldenburg","Neuss","Mülheim","Darmstadt","Herne","Würzburg",
+			"Recklinghausen","Göttingen","Wolfsburg","Koblenz","Hildesheim","Erlangen"],
+  },
 
 
 	// city-states
@@ -174,6 +201,19 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [0,102,102],
 		"cities": ["Edinburgh"],
+	},
+	{
+		"name": "Ghana",
+		"adjective": ["Ghanaian"],
+		"cityStateType": "Mercantile",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Slavery and spoliation has returned to Ghana. Were my efforts all for naught?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255,222,89],
+		"cities": ["Accra"]
 	},
 ]
     
