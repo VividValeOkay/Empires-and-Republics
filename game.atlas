@@ -18,3 +18,17 @@ TileSets/FantasyHex/Units/Neolithic Spearman
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Worker-African
+  rotate: false
+  xy: 112, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-Indian
+  rotate: false
+  xy: 152, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
