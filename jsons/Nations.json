@@ -88,6 +88,7 @@
     "outerColor": [77,16,198],
     "innerColor": [9,194,155],
     "uniqueName": "Maurya Empire",
+    "uniques": ["[+100]% unhappiness from the number of cities","[-50]% Unhappiness from [Population] [in all cities]"],
     "cities": ["Pataliputra","Mumbai","Vijayanagara","Delhi","Varanasi","Agra","Calcutta","Lahore","Bangalore","Hyderabad","Madurai","Ahmedabad",
 			"Kolhapur","Prayaga","Ayodhya","Indraprastha","Mathura","Ujjain","Gulbarga","Jaunpur","Rajagriha","Sravasti","Tiruchirapalli","Thanjavur",
 			"Bodhgaya","Kushinagar","Amaravati","Gaur","Gwalior","Jaipur","Karachi"],
