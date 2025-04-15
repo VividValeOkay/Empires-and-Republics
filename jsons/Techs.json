@@ -150,4 +150,19 @@
 			},
 		],
 	},
+	{
+		"columnNumber": 5,
+		"era": "Classical era",
+		"techCost": 105,
+		"buildingCost": 100,
+		"wonderCost": 250,
+		"techs": [
+			{
+				"name": "Iron Working",
+				"row": 9,
+				"prerequisites": ["Carpentry","Masonry"],
+				"quote": "'Here Hector entered, with a spear eleven cubits long in his hand; the bronze point gleamed in front of him, and was fastened to the shaft of the spear by a ring of gold.' - Homer"
+			}
+		],
+	},
 ]
