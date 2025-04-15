@@ -144,7 +144,7 @@
 			{
 				"name": "Sailing",
 				"row": 10,
-				"prerequisites": ["Bronze Working"],
+				"prerequisites": ["Bronze Working","Fishing"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
