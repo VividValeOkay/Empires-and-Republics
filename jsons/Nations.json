@@ -168,6 +168,7 @@
 	},
 	{
 		"name": "Morocco",
+		"style": "Africn",
 		"adjective": ["Moroccan"],
 		"startBias": ["Coast","Avoid [Tundra]"],
 		"cityStateType": "Cultured",
@@ -205,6 +206,7 @@
 	},
 	{
 		"name": "Ghana",
+		"style": "african",
 		"adjective": ["Ghanaian"],
 		"cityStateType": "Mercantile",
 		"startBias": ["Coast"],
