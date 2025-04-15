@@ -65,4 +65,11 @@
 		"uniques": ["[40]% Food is carried over after population increases [in this city]"],
 		"requiredTech": "Masonry"
 	},
+	{
+		"name": "Port",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["[+1 Gold] per [6] population [in this city]"],
+		"requiredTech": "Sailing",
+	},
 ]
