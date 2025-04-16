@@ -50,4 +50,13 @@
 		"uniques": ["Does not need removal of [Forest]","Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "C"
 	},
+	{
+		"name": "Lumber mill",
+		"terrainsCanBeBuiltOn": ["Forest"],
+		"production": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Construction",
+		"uniques": [""Pillaging this improvement yields approximately [+10 Gold]"],
+		"shortcutKey": "L"
+	},
 ]
