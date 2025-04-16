@@ -84,7 +84,7 @@
                 "column": 1
             },
             {
-                "name": "Citizenship",
+                "name": "Kings Workers",
                 "uniques": [
                     "Can build [all] improvements at a [+25]% rate",
                     "Free [Worker] appears",
@@ -92,6 +92,14 @@
                 ],
                 "row": 1,
                 "column": 4
+            },
+             {
+                "name": "Absolute Power",
+                "uniques": [
+                    "[+2 Gold, +1 Culture] [in capital]",
+                ],
+                "row": 2,
+                "column": 2
             },
 
             {
