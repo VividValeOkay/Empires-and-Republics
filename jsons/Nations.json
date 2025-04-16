@@ -119,8 +119,8 @@
 
     "tradeRequest": "I offer this, for your consideration.",
 
-    "outerColor": [209,33,33],
-    "innerColor": [231,214,21],
+    "outerColor": [70,0,118],
+    "innerColor": [240,199,0],
     "uniqueName": "Veni, Vidi, Vici",
     "uniques": ["[+2] Unit Supply per city","All newly-trained [Military] units [in all cities] receive the [Legions Finest] promotion"],
     "cities": ["Roma","Antium","Cumae","Neapolis","Ravenna","Arretium","Mediolanum","Arpinum","Circei","Setia",
@@ -135,7 +135,7 @@
     "startBias": ["Grassland"],
 
     "declaringWar": "I cannot wait until ye grow even mightier. Therefore, prepare for war!",
-    "attacked": "Corrupted villain! We will bring you into the ground!",
+    "attacked": "What? Really?",
     "defeated": "Germany has been destroyed. I weep for the future generations.",
     "introduction": "Guten Tag. In the name of the great German people, I bid you welcome.",
 
@@ -155,6 +155,32 @@
 			"Osnabrück","Ludwigshafen","Leverkusen","Oldenburg","Neuss","Mülheim","Darmstadt","Herne","Würzburg",
 			"Recklinghausen","Göttingen","Wolfsburg","Koblenz","Hildesheim","Erlangen"],
   },
+ {
+    "name": "The Soviets",
+    "leaderName": "Vladimir Lenin",
+    "adjective": ["Soviet"],
+    "startBias": ["Tundra"],
+
+    "declaringWar": "You've behaved yourself very badly, you know it. Now it's payback time.",
+    "attacked": "Corrupted villain! We will bring you into the ground!",
+    "defeated": "No, this is no defeat; this is but a pillar upon which the hearts of working men will gaze and be inspired; to rise up against you and topple your corrupt tyranny.",
+    "introduction": "I am Vladimir Lenin and I lead a nation of working men. You will find no welcome for tyrants and merchant-lords here. All men willing to be equal, are equal in this land.",
+
+    "neutralHello": "Hello!",
+    "hateHello": "What do you need?!",
+
+    "tradeRequest": "How would you like it if I propose this kind of exchange?",
+
+    "outerColor": [209,33,33],
+    "innerColor": [231,214,21],
+    "uniqueName": "Proletarian Dictatorship",
+    "uniques": ["[+20]% Production when constructing [Military] units [in all cities]","Gain [15] [Culture] <upon constructing [Production]>"],
+    "cities": ["Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
+			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
+			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
+			"Voronezh","Pskov","Starayarussa","Kostoma","Nizhniy Novgorod","Suzdal","Magnitogorsk"],
+  },
+
 
 
 	// city-states
