@@ -112,4 +112,15 @@
 		"hurryCostModifier": 20,
 		"attackSound": "throw"
 	},
+	{
+		"name": "Dromon",
+		"unitType": "Ranged Water",
+		"movement": 4,
+		"strength": 8,
+		"rangedStrength": 10,
+		"cost": 56,
+		"requiredTech": "Optics",
+		"uniques": ["Cannot enter ocean tiles", "[+50]% Strength <vs [Water] units>"],
+		"attackSound": "arrow"
+	},
 ]
