@@ -19,4 +19,8 @@
         "name": "Archery",
         "movementType": "Land",
   },
+    {
+        "name": "Siege",
+        "movementType": "Land"
+    },
 ]
