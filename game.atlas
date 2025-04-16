@@ -11,72 +11,86 @@ NationIcons/Sumer
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Neolithic Spearman
+TileSets/FantasyHex/Units/Archer-African
   rotate: false
   xy: 4, 113
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Archer-Indian
+  rotate: false
+  xy: 4, 77
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Neolithic Spearman
+  rotate: false
+  xy: 44, 113
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Settler-African
   rotate: false
-  xy: 4, 76
+  xy: 4, 40
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Settler-Indian
   rotate: false
-  xy: 44, 112
+  xy: 44, 76
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Slinger
   rotate: false
-  xy: 4, 40
+  xy: 4, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Slinger-African
   rotate: false
-  xy: 44, 76
+  xy: 44, 40
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Slinger-Indian
   rotate: false
-  xy: 4, 4
+  xy: 44, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-African
   rotate: false
-  xy: 44, 40
+  xy: 84, 113
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-Indian
   rotate: false
-  xy: 44, 4
+  xy: 84, 77
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-African
   rotate: false
-  xy: 84, 113
+  xy: 84, 41
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Indian
   rotate: false
-  xy: 84, 77
+  xy: 84, 5
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
