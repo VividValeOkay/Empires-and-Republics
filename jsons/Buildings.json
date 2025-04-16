@@ -76,6 +76,6 @@
 		"name": "Commons Quarters",
 		"happiness": 2,
 		"hurryCostModifier": 25,
-		"requiredTech": "Trapping"
+		"requiredTech": "Carpentry"
 	},
 ]
