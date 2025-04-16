@@ -72,4 +72,10 @@
 		"uniques": ["[+1 Gold] per [6] population [in this city]","Can only be built <in [Coastal] cities>"],
 		"requiredTech": "Sailing",
 	},
+	{
+		"name": "Commons Quarters",
+		"happiness": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Trapping"
+	},
 ]
