@@ -15,6 +15,10 @@
         "name": "Melee Water",
         "movementType": "Water"
   },
+   {
+        "name": "Ranged Water",
+        "movementType": "Water"
+    },
   {
         "name": "Archery",
         "movementType": "Land",
