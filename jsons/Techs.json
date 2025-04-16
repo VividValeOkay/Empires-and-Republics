@@ -151,7 +151,6 @@
 				"name": "Sailing",
 				"row": 10,
 				"prerequisites": ["Bronze Working","Fishing"],
-                "uniques": ["[+100]% weight to this choice for AI decisions"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 		],
@@ -175,6 +174,13 @@
 				"prerequisites": ["The Wheel", "Writing"],
 				"quote": "'Mathematics is the gate and key to the sciences.' - Roger Bacon"
 			},
+			{
+				"name": "Construction",
+				"row": 8,
+				"prerequisites": ["Carpentry","Masonry"],
+                "uniques": ["[+100]% weight to this choice for AI decisions"],
+				"quote": "'Three things are to be looked to in a building: that it stands on the right spot; that it be securely founded; that it be successfully executed.' - Johann Wolfgang von Goethe"
+			}
 		],
 	},
 ]
