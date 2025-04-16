@@ -189,6 +189,12 @@
 				"uniques": ["Enables embarkation for land units"],
 				"quote": "'He made an instrument to know if the moon shine at full or no.' - Samuel Butler"
 			},
+			{
+				"name": "Horseback Riding",
+				"row": 5,
+				"prerequisites": ["The Wheel"],
+				"quote": "'A Horse! A Horse! My kingdom for a horse!' - Shakespeare (Richard III)"
+			},
 		],
 	},
 ]
