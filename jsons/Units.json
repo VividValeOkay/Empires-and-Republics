@@ -123,4 +123,15 @@
 		"uniques": ["Cannot enter ocean tiles", "[+50]% Strength <vs [Water] units>"],
 		"attackSound": "arrow"
 	},
+	{
+		"name": "War Chariot",
+		"unitType": "Mounted",
+		"movement": 5,
+		"strength": 12,
+		"cost": 82,
+		"requiredTech": "The Wheel",
+		"requiredResource": "Horses",
+		"uniques": ["No defensive terrain bonus", "Rough terrain penalty"],
+		"attackSound": "horse"
+	},
 ]
