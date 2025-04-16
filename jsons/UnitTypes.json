@@ -27,4 +27,8 @@
         "name": "Siege",
         "movementType": "Land"
     },
+   {
+        "name": "Mounted",
+        "movementType": "Land"
+    },
 ]
