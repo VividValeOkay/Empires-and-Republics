@@ -78,4 +78,25 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Carpentry"
 	},
+	{
+		"name": "Terracotta Army",
+		"culture": 6,
+		"isWonder": true,
+		"requiredTech": "Construction",
+		"quote": "'Regard your soldiers as your children, and they will follow you into the deepest valleys; look on them as your own beloved sons, and they will stand by you even unto death.' - Sun Tzu"
+	},
+	{
+		"name": "Stonehenge",
+		"faith": 5,
+		"isWonder": true,
+		"quote": "'Time crumbles things; everything grows old and is forgotten under the power of time' - Aristotle"
+	},
+	{
+		"name": "The Pyramids",
+		"culture": 1,
+		"isWonder": true,
+		"uniques": ["Can build [all] improvements at a [+25]% rate","[2] free [Worker] units appear"],
+		"requiredTech": "Masonry",
+		"quote": "'O, let not the pains of death which come upon thee enter into my body. I am the god Tem, and I am the foremost part of the sky, and the power which protecteth me is that which is with all the gods forever.' - The Book of the Dead, translated by Sir Ernest Alfred Wallis Budge"
+	},
 ]
