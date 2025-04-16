@@ -228,6 +228,7 @@
 		"name": "Scotland",
 		"adjective": ["Scottish"],
 		"cityStateType": "Militaristic",
+		"startBias": ["Hill","Avoid [Desert]"],
 
 		"declaringWar": "You shall stain this land no longer with your vileness! To arms, my countrymen - we ride to war!",
 		"attacked": "Traitorous man! The Celtic peoples will not stand for such wanton abuse and slander - I shall have your head!",
@@ -241,7 +242,7 @@
 		"style": "African",
 		"adjective": ["Ghanaian"],
 		"cityStateType": "Mercantile",
-		"startBias": ["Coast"],
+		"startBias": ["Coast","Avoid [Tundra]"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -249,6 +250,31 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,222,89],
 		"cities": ["Accra"]
+	},
+	{
+		"name": "Kazakhstan",
+		"adjective": ["Kazakh","Kazakhstani"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How could we fall to the likes of you?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [152,0,241],
+		"cities": ["Almaty"]
+	},
+	{
+		"name": "Aztecs",
+		"adjective": ["Aztec"],
+		"cityStateType": "Militaristic",
+		"startBias": ["Jungle"],
+
+		"declaringWar": "Xi-miqa-can! Xi-miqa-can! Xi-miqa-can! (Die, die, die!)",
+		"attacked": "Excellent! Let the blood flow in raging torrents!",
+		"defeated": "Monster! Who are you to destroy my greatness?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [134,238,214],
+		"cities": ["Tenochtitlan"]
 	},
 ]
     
