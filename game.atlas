@@ -6,42 +6,56 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Sumer
   rotate: false
-  xy: 4, 4
+  xy: 4, 5
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Neolithic Spearman
   rotate: false
-  xy: 112, 76
+  xy: 112, 77
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Warrior-African
+TileSets/FantasyHex/Units/Settler-African
   rotate: false
   xy: 112, 40
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Settler-Indian
+  rotate: false
+  xy: 152, 76
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Warrior-African
+  rotate: false
+  xy: 152, 40
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-Indian
   rotate: false
-  xy: 152, 76
+  xy: 192, 77
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-African
   rotate: false
-  xy: 112, 4
+  xy: 192, 41
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Indian
   rotate: false
-  xy: 152, 40
+  xy: 112, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
