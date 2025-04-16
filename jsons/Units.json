@@ -126,12 +126,26 @@
 	{
 		"name": "War Chariot",
 		"unitType": "Mounted",
-		"movement": 5,
+		"movement": 4,
 		"strength": 12,
 		"cost": 82,
 		"requiredTech": "The Wheel",
 		"requiredResource": "Horses",
-		"uniques": ["No defensive terrain bonus", "Rough terrain penalty"],
+		"upgradesTo": "Horseman",
+		"obsoleteTech": "Horseback Riding",
+		"uniques": ["No defensive terrain bonus","Rough terrain penalty","[-33]% Strength <vs cities> <when attacking>"],
+		"attackSound": "horse"
+	},
+	{
+		"name": "Horseman",
+		"unitType": "Mounted",
+		"movement": 5,
+		"strength": 16,
+		"cost": 75,
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
+		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
 ]
