@@ -59,6 +59,7 @@
 		"uniques": ["Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "L"
 	},
+]
 //	{
 //		"name": "Barbarian encampment",
 //		"terrainsCanBeBuiltOn": ["Land"],
@@ -66,4 +67,4 @@
 //        "civilopediaText": [{"text":"Home to uncivilized barbarians, will spawn a hostile unit from time to time"}]
 //	}
 	
-]
+
