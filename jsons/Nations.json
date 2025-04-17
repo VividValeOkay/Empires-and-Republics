@@ -264,7 +264,7 @@
 		"cities": ["Almaty"]
 	},
 	{
-		"name": "Aztecs",
+		"name": "The Aztecs",
 		"adjective": ["Aztec"],
 		"cityStateType": "Militaristic",
 		"startBias": ["Jungle"],
