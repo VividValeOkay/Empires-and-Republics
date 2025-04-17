@@ -276,6 +276,7 @@
 		"innerColor": [134,238,214],
 		"cities": ["Tenochtitlan"]
 	},
+]
 	
 	// Barbarians wip
 //	{
@@ -285,5 +286,5 @@
 //		"uniques": ["Can only heal by pillaging", "Excluded from map editor",
 //			"[Water] units gain the [Unable to pillage tiles] promotion"]
 //	}
-]
+
     
