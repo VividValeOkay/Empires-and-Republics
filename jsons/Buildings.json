@@ -80,6 +80,7 @@
 	},
 	{
 		"name": "Terracotta Army",
+		"cost": 140,
 		"culture": 6,
 		"isWonder": true,
 		"requiredTech": "Construction",
@@ -87,12 +88,14 @@
 	},
 	{
 		"name": "Stonehenge",
+		"cost": 100,
 		"faith": 5,
 		"isWonder": true,
 		"quote": "'Time crumbles things; everything grows old and is forgotten under the power of time' - Aristotle"
 	},
 	{
 		"name": "The Pyramids",
+		"cost": 180,
 		"culture": 1,
 		"isWonder": true,
 		"uniques": ["Can build [all] improvements at a [+25]% rate","[2] free [Worker] units appear"],
@@ -105,5 +108,14 @@
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},
 		"requiredTech": "Currency"
+	},
+	{
+		"name": "Amphitheater",
+		"culture": 3,
+		"requiredBuilding": "Monument",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["Destroyed when the city is captured"],
+		"requiredTech": "Drama and Poetry"
 	},
 ]
