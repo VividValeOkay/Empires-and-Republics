@@ -197,4 +197,11 @@
 			},
 		],
 	},
+	{
+		"columnNumber": 6,
+		"era": "Classical era",
+		"techCost": 175,
+		"buildingCost": 100,
+		"wonderCost": 250,
+		"techs": [
 ]
