@@ -30,4 +30,28 @@
           "Autocracy": Expansion + TileImprovement,
           "Classical Republic": Boldness + War,
       },
+      {
+      "name": "Yongle",
+      // Stats focused personalities
+      "culture": 8,
+      "faith": 6,
+      "food": 6,
+      "gold": 4,
+      "happiness": 5,
+      "production": 6,
+      "science": 4,
+      // Behavour focused personalities
+      "military": 6,
+      "aggressive": 6,
+      "declareWar": 6,
+      "commerce": 4,
+      "diplomacy": 4,
+      "loyal": 4,
+      "expansion": 6,
+
+      "priorities": {
+          "Tribalism": 5,
+          "Autocracy": 5,
+          "Classical Republic": 2,
+      },
     ]
