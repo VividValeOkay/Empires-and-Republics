@@ -216,6 +216,12 @@
 				"prerequisites": ["Mathematics"],
 				"quote": "'What is drama but life with the dull bits cut out.' - Alfred Hitchcock"
 			},
+			{
+				"name": "Philosophy",
+				"row": 4,
+				"prerequisites": ["Mathematics"],
+				"quote": "'There is only one good, knowledge, and one evil, ignorance.' - Socrates"
+			},
 		],
 	},
 ]
