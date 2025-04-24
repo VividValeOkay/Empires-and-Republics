@@ -95,37 +95,51 @@ TileSets/FantasyHex/Units/Spearman-Asia
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Swordsman-Asia
+TileSets/FantasyHex/Units/Spearman-Rome
   rotate: false
   xy: 192, 78
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Warrior-African
+TileSets/FantasyHex/Units/Swordsman-Asia
   rotate: false
   xy: 112, 40
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Warrior-Indian
+TileSets/FantasyHex/Units/Swordsman-Rome
   rotate: false
   xy: 152, 42
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Worker-African
+TileSets/FantasyHex/Units/Warrior-African
   rotate: false
   xy: 192, 42
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Worker-Indian
+TileSets/FantasyHex/Units/Warrior-Indian
   rotate: false
   xy: 84, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-African
+  rotate: false
+  xy: 124, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-Indian
+  rotate: false
+  xy: 164, 6
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
