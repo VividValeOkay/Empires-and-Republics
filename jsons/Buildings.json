@@ -118,4 +118,13 @@
 		"uniques": ["Destroyed when the city is captured"],
 		"requiredTech": "Drama and Poetry"
 	},
+	{
+		"name": "Temple",
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"]
+	},
 ]
