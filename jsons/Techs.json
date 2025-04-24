@@ -222,6 +222,12 @@
 				"prerequisites": ["Mathematics"],
 				"quote": "'There is only one good, knowledge, and one evil, ignorance.' - Socrates"
 			},
+			{
+				"name": "Craftsmanship",
+				"row": 8,
+				"prerequisites": ["Construction","Iron Working"],
+				"quote": "'By progressing the myriad arts of culture from individual endeavors to skilled crafts executed with knowledge and training, true quality can flourish.' - Humankind"
+			},
 		],
 	},
 ]
