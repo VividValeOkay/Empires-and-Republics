@@ -200,10 +200,8 @@
     "innerColor": [254,129,19],
     "uniqueName": "Monasteries of the King",
     "uniques": ["[+35]% [Production] from every [Production]","[+1 Faith] from every [Fresh Water] <in tiles adjacent to [City center] tiles>"],
-    "cities": ["Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
-			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
-			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
-			"Voronezh","Pskov","Starayarussa","Kostoma","Nizhniy Novgorod","Suzdal","Magnitogorsk"],
+    "cities": ["Angkor Wat","Hariharalya","Yaodharapura","Mahendraparvata","Vimayapura","Indrapura","Lingapura","Preah Vihear","Bhavapura","Kompong Svay","Nagara Jayasri","Vyadhapura","Chaturmukha","Dviradapura","Rajavihara","Amarendrapura","Phanom Rung","Isvarapura","Muang Tam",
+	    "Angkor Borei","Banteay Kdei","Phetchaburi","Chaiya","Isanapura","Pre Rup","Beng Melea","Lavodayapura","Shrestapura","Aninditapura"],
   },
 
 
