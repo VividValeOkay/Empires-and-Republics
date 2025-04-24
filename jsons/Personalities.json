@@ -26,15 +26,8 @@
       "expansion": Expansion,
 
       "priorities": {
-          "Tradition": Culture + Wonder,
-          "Liberty": Expansion + TileImprovement,
-          "Honor": Boldness + War,
-          "Commerce": Gold + Chatiness,
-          "Patronage": CityStateCompetitiveness + CSFriendly,
-          "Piety": Faith + CS Friendly,
-          "Rationalism": Science + Spaceship,
-          "Freedom": Hapiness + Growth,
-          "Autocracy": Boldness + Military training,
-          "Order": Defensive + Production
+          "Tribalism": Culture + Wonder,
+          "Autocracy": Expansion + TileImprovement,
+          "Classical Republic": Boldness + War,
       },
     ]
