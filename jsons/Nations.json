@@ -180,6 +180,32 @@
 			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
 			"Voronezh","Pskov","Starayarussa","Kostoma","Nizhniy Novgorod","Suzdal","Magnitogorsk"],
   },
+ {
+    "name": "Khmer",
+    "leaderName": "Jayavarman VII",
+    "adjective": ["Khmer","Khmeran"],
+    "startBias": ["Jungle"],
+
+    "declaringWar": "Your actions reveal your desire for war. The Khmer shall oblige you.",
+    "attacked": "War, then? Fools think fortune is on their side. Who will you blame when yours runs out?",
+    "defeated": "One gains humility in defeat. I pray you are granted the most humility of all...",
+    "introduction": "I am Jayavarman VII, and the Khmer allow me to lead them. Their suffering is my suffering.",
+
+    "neutralHello": "Welcome.",
+    "hateHello": "Greetings.",
+
+    "tradeRequest": "Yes. It is good for the Khmer.",
+
+    "outerColor": [116,0,155],
+    "innerColor": [254,129,19],
+    "uniqueName": "Monasteries of the King",
+    "uniques": ["[+35]% [Production] from every [Production]","[+1 Faith] from every [Fresh Water] <in tiles adjacent to [City center] tiles>"],
+    "cities": ["Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
+			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
+			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
+			"Voronezh","Pskov","Starayarussa","Kostoma","Nizhniy Novgorod","Suzdal","Magnitogorsk"],
+  },
+
 
 
 
@@ -241,7 +267,7 @@
 		"name": "Ghana",
 		"style": "African",
 		"adjective": ["Ghanaian"],
-		"cityStateType": "Mercantile",
+		"cityStateType": "Maritime",
 		"startBias": ["Coast","Avoid [Tundra]"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -275,6 +301,19 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [134,238,214],
 		"cities": ["Tenochtitlan"]
+	},
+	{
+		"name": "Hawai'i",
+		"adjective": ["Hawaiian"],
+		"cityStateType": "Mercantile",
+		"startBias": ["Coast"],
+
+		"declaringWar": "The ancient fire flashing across the sky is what proclaimed that this day would come, though I had foolishly hoped for a different outcome.",
+		"attacked": "It is obvious now that I misjudged you and your true intentions.",
+		"defeated": "The hard-shelled crab yields, and the lion lies down to sleep. Kanaloa comes for me now.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255,255,75],
+		"cities": ["Honolulu"]
 	},
 ]
 	
