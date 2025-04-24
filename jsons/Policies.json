@@ -67,13 +67,13 @@
         "name": "Autocracy",
         "era": "Classical era",
         "priorities": {
-            "Neutral": 8,
+            "Neutral": 5,
             "Cultural": 4,
             "Diplomatic": 2,
             "Domination": 10,
             "Scientific": 4
         },
-        "uniques": ["[+2 Culture] [in capital]"],
+        "uniques": ["[+2 Culture] [in capital]","Only available <before adopting [Classical Republic]>"],
         "policies": [
             {
                 "name": "God king",
@@ -96,7 +96,7 @@
              {
                 "name": "Absolute Power",
                 "uniques": [
-                    "[+2 Gold, +1 Culture] [in capital]",
+                    "[+4 Gold, +3 Culture] [in capital]",
                 ],
                 "row": 2,
                 "column": 2
@@ -104,6 +104,52 @@
 
             {
                 "name": "Autocracy Complete",
+                "uniques": ["[1] free [Worker] units appear"]
+            }
+                           ]
+            }
+        ]
+    },
+     {
+        "name": "Classical Republic",
+        "era": "Classical era",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 5,
+            "Diplomatic": 6,
+            "Domination": 3,
+            "Scientific": 8
+        },
+        "uniques": ["[+2 Culture] [in capital]","Only available <before adopting [Autocracy]>"],
+        "policies": [
+            {
+                "name": "Rule of Law",
+                "uniques": [
+                    "Provides the cheapest [Culture] building in your first [4] cities for free",
+                ],
+                "row": 1,
+                "column": 1
+            },
+              {
+                "name": "Representation",
+                "uniques": [
+                    "Each city founded increases culture cost of policies [33]% less than normal",
+                    "Empire enters golden age"
+                ],
+                "row": 2,
+                "column": 3
+            },
+             {
+                "name": "Mixed Government",
+                "uniques": [
+                    "[+1 Gold, +1 Culture] [in all non-occupied cities]",
+                ],
+                "row": 2,
+                "column": 2
+            },
+
+            {
+                "name": "Classical Republic Complete",
                 "uniques": ["[1] free [Worker] units appear"]
             }
         ]
