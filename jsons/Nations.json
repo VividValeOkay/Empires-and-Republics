@@ -10,6 +10,7 @@
     "leaderName": "Victoria",
     "adjective": ["English"],
     "startBias": ["Coast","Grassland"],
+    "personality": "Victoria",
 
     "declaringWar": "As our protests are in vain, we hereby declare war.",
     "attacked": "You won't win this war!",
