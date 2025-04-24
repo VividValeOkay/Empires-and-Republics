@@ -139,8 +139,16 @@
 		"name": "Artisan Workshop",
 		"production": 2,
 		"maintenance": 1,
-		"hurryCostModifier": 25,
+		"hurryCostModifier": 28,
 		"uniques": ["[+1 Production] from [worked] tiles [in this city] <in [Luxury resource] tiles>"],
+		"requiredTech": "Craftsmanship",
+	},
+	{
+		"name": "Charcoal Kiln",
+		"production": 1,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Production] from [Copper] tiles [in this city]"],
 		"requiredTech": "Craftsmanship",
 	},
 ]
