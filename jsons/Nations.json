@@ -60,6 +60,7 @@
     "leaderName": "Yongle",
     "adjective": ["Chinese"],
     "startBias": ["Grassland"],
+    "personality": "Yongle",
 
     "declaringWar": "I do not support of your rule, I must destroy you!",
     "attacked": "You may as well seek to conquer heaven itself. Let us see how high your arrows fly.",
