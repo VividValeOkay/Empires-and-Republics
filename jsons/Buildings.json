@@ -25,7 +25,15 @@
 		"requiredTech": "Fire",
 		"uniques": ["Unavailable <after discovering [Ancient era]>"],
 	},
-{
+	{
+		"name": "Shrine",
+		"faith": 1,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Fire",
+		"uniques": ["Only available <when religion is enabled>"]
+	},
+        {
 		"name": "Monument",
 		"culture": 2,
 		"cost": 40,
