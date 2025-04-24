@@ -127,4 +127,12 @@
 		"requiredTech": "Philosophy",
 		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"]
 	},
+	{
+		"name": "School",
+		"science": 1,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Science] per [5] population [in this city]"],
+		"requiredTech": "Philosophy"
+	},
 ]
