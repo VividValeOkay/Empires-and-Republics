@@ -116,7 +116,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"uniques": ["Destroyed when the city is captured"],
-		"requiredTech": "Drama and Poetry"
+		"requiredTech": "Drama and Poetry",
 	},
 	{
 		"name": "Temple",
@@ -133,6 +133,14 @@
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"uniques": ["[+1 Science] per [5] population [in this city]"],
-		"requiredTech": "Philosophy"
+		"requiredTech": "Philosophy",
+	},
+	{
+		"name": "Artisan Workshop",
+		"production": 2,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Production] from [worked] tiles [in this city] <in [Luxury resource] tiles>"],
+		"requiredTech": "Craftsmanship",
 	},
 ]
