@@ -159,7 +159,7 @@
 		"uniques": ["[+1 Production] from [Copper] tiles [in this city]"],
 		"requiredTech": "Craftsmanship",
 	},
-		{
+	{
 		"name": "Temple of Artemis",
 		"culture": 1,
 		"isWonder": true,
@@ -167,6 +167,14 @@
                 "[+15]% Production when constructing [Ranged Gunpowder] units [in this city]"],
 		"requiredTech": "Archery",
 		"quote": "'It is not so much for its beauty that the forest makes a claim upon men's hearts, as for that subtle something, that quality of air, that emanation from old trees, that so wonderfully changes and renews a weary spirit.' - Robert Louis Stevenson"
+	},
+	{
+		"name": "Workshop",
+		"maintenance": 2,
+		"production": 2,
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"production": 10},
+		"requiredTech": "Apprenticeship"
 	},
 
 ]
