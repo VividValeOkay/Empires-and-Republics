@@ -176,5 +176,14 @@
 		"percentStatBonus": {"production": 10},
 		"requiredTech": "Apprenticeship"
 	},
+	{
+		"name": "High Furnace",
+		"maintenance": 1,
+		"production": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Production] from [Iron] tiles [in this city]"],
+		"percentStatBonus": {"production": 10},
+		"requiredTech": "Apprenticeship"
+	},
 
 ]
