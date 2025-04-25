@@ -244,6 +244,13 @@
 				"uniques": ["Enables conversion of city production to [Gold]"],
 				"quote": "'The merchants and the traders have come; their profits are pre-ordained...' - Sri Guru Granth Sahib"
 			},
+			{
+				"name": "Apprenticeship",
+				"row": 8,
+				"prerequisites": ["Craftsmanship"],
+                "uniques": ["[+1 Production] from [Mine] tiles [in all cities]"],
+				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
+			}
 		],
 	},
 ]
