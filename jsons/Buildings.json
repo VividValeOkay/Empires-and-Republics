@@ -192,5 +192,14 @@
 		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Military Architecture"
 	},
+	{
+		"name": "Temple",
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Theology",
+		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"]
+	},
 
 ]
