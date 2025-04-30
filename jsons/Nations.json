@@ -181,7 +181,7 @@
 
     "outerColor": [209,33,33],
     "innerColor": [231,214,21],
-    "favoredReligion": "",
+    "favoredReligion": "Eastern Orthodoxy",
     "uniqueName": "Proletarian Dictatorship",
     "uniques": ["[+20]% Production when constructing [Military] units [in all cities]","Gain [15] [Culture] <upon constructing [Production]>"],
     "cities": ["Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
