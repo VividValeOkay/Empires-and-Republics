@@ -50,7 +50,7 @@
 
     "outerColor": [27,53,63],
     "innerColor": [213,249,255],
-    "favoredReligion": "",
+    "favoredReligion": "Zoroastrianism",
     "uniqueName": "Ancient World",
     "uniques": ["Gifts of Gold to City-States generate [+35]% more Influence","[+25]% Strength <vs [Barbarian] units>"],
     "cities": ["Uruk","Eridu","Kish","Ur","Lagash","Nippur","Bad-Tibira","Sippar","Shuruppak","Adab","Isin","Hamazi","Larak","Abu Salabikh",
@@ -78,7 +78,7 @@
     "outerColor": [9,112,84],
     "innerColor": [255,255,255],
     "uniqueName": "Ming Dynasty",
-    "favoredReligion": "",
+    "favoredReligion": "Taoism",
     "uniques": ["[+1 Culture] [in all cities]","[-20]% Culture cost of adopting new Policies"],
     "cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong",
 			"Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang",
@@ -103,7 +103,7 @@
 
     "outerColor": [77,16,198],
     "innerColor": [9,194,155],
-    "favoredReligion": "",
+    "favoredReligion": "Brahmanism",
     "uniqueName": "Maurya Empire",
     "uniques": ["[+100]% unhappiness from the number of cities","[-50]% Unhappiness from [Population] [in all cities]"],
     "cities": ["Pataliputra","Mumbai","Vijayanagara","Delhi","Varanasi","Agra","Calcutta","Lahore","Bangalore","Hyderabad","Madurai","Ahmedabad",
