@@ -199,7 +199,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Theology",
-		"uniques": ["Only available <when religion is enabled>","Gain enough Faith for [100]% of a Great Prophet","Destroyed when the city is captured"]
+		"uniques": ["Only available <when religion is enabled>","Free [Great Prophet] appears <if [Temple] is not constructed>","Destroyed when the city is captured"]
 	},
 
 ]
