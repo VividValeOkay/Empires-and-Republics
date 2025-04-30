@@ -208,7 +208,7 @@
 
     "outerColor": [116,0,155],
     "innerColor": [254,129,19],
-    "favoredReligion": "",
+    "favoredReligion": "Hinduism",
     "uniqueName": "Monasteries of the King",
     "uniques": ["[+35]% [Production] from every [Production]","[+1 Faith] from every [Fresh Water] <in tiles adjacent to [City center] tiles>"],
     "cities": ["Angkor Wat","Hariharalya","Yaodharapura","Mahendraparvata","Vimayapura","Indrapura","Lingapura","Preah Vihear","Bhavapura","Kompong Svay","Nagara Jayasri","Vyadhapura","Chaturmukha","Dviradapura","Rajavihara","Amarendrapura","Phanom Rung","Isvarapura","Muang Tam",
