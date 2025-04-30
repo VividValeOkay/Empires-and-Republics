@@ -128,7 +128,6 @@
 
     "outerColor": [70,0,118],
     "innerColor": [240,199,0],
-    "favoredReligion": "",
     "uniqueName": "Veni, Vidi, Vici",
     "uniques": ["[+2] Unit Supply per city","All newly-trained [Military] units [in all cities] receive the [Legions Finest] promotion"],
     "cities": ["Roma","Antium","Cumae","Neapolis","Ravenna","Arretium","Mediolanum","Arpinum","Circei","Setia",
@@ -154,7 +153,7 @@
 
     "outerColor": [179,178,184],
     "innerColor": [37,43,33],
-    "favoredReligion": "",
+    "favoredReligion": "Protestantism",
     "uniqueName": "Iron Ordnance",
     "uniques": ["[+15]% Strength <for [Water] units>","[+20]% [Production] <in [all] cities>"],
     "cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Düsseldorf","Bremen",
