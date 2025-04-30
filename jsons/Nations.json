@@ -24,6 +24,7 @@
 
     "outerColor": [254,250,248],
     "innerColor": [228,8,10],
+    "favoredReligion": "",
     "uniqueName": "Rule Britannia",
     "uniques": ["[+15]% [Gold] [in all cities connected to capital]","[+15]% [Science] [in all cities connected to capital]"],
     "cities": ["London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
@@ -49,6 +50,7 @@
 
     "outerColor": [27,53,63],
     "innerColor": [213,249,255],
+    "favoredReligion": "",
     "uniqueName": "Ancient World",
     "uniques": ["Gifts of Gold to City-States generate [+35]% more Influence","[+25]% Strength <vs [Barbarian] units>"],
     "cities": ["Uruk","Eridu","Kish","Ur","Lagash","Nippur","Bad-Tibira","Sippar","Shuruppak","Adab","Isin","Hamazi","Larak","Abu Salabikh",
@@ -76,6 +78,7 @@
     "outerColor": [9,112,84],
     "innerColor": [255,255,255],
     "uniqueName": "Ming Dynasty",
+    "favoredReligion": "",
     "uniques": ["[+1 Culture] [in all cities]","[-20]% Culture cost of adopting new Policies"],
     "cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong",
 			"Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang",
@@ -100,6 +103,7 @@
 
     "outerColor": [77,16,198],
     "innerColor": [9,194,155],
+    "favoredReligion": "",
     "uniqueName": "Maurya Empire",
     "uniques": ["[+100]% unhappiness from the number of cities","[-50]% Unhappiness from [Population] [in all cities]"],
     "cities": ["Pataliputra","Mumbai","Vijayanagara","Delhi","Varanasi","Agra","Calcutta","Lahore","Bangalore","Hyderabad","Madurai","Ahmedabad",
@@ -124,6 +128,7 @@
 
     "outerColor": [70,0,118],
     "innerColor": [240,199,0],
+    "favoredReligion": "",
     "uniqueName": "Veni, Vidi, Vici",
     "uniques": ["[+2] Unit Supply per city","All newly-trained [Military] units [in all cities] receive the [Legions Finest] promotion"],
     "cities": ["Roma","Antium","Cumae","Neapolis","Ravenna","Arretium","Mediolanum","Arpinum","Circei","Setia",
@@ -149,6 +154,7 @@
 
     "outerColor": [179,178,184],
     "innerColor": [37,43,33],
+    "favoredReligion": "",
     "uniqueName": "Iron Ordnance",
     "uniques": ["[+15]% Strength <for [Water] units>","[+20]% [Production] <in [all] cities>"],
     "cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Düsseldorf","Bremen",
@@ -176,6 +182,7 @@
 
     "outerColor": [209,33,33],
     "innerColor": [231,214,21],
+    "favoredReligion": "",
     "uniqueName": "Proletarian Dictatorship",
     "uniques": ["[+20]% Production when constructing [Military] units [in all cities]","Gain [15] [Culture] <upon constructing [Production]>"],
     "cities": ["Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
@@ -202,6 +209,7 @@
 
     "outerColor": [116,0,155],
     "innerColor": [254,129,19],
+    "favoredReligion": "",
     "uniqueName": "Monasteries of the King",
     "uniques": ["[+35]% [Production] from every [Production]","[+1 Faith] from every [Fresh Water] <in tiles adjacent to [City center] tiles>"],
     "cities": ["Angkor Wat","Hariharalya","Yaodharapura","Mahendraparvata","Vimayapura","Indrapura","Lingapura","Preah Vihear","Bhavapura","Kompong Svay","Nagara Jayasri","Vyadhapura","Chaturmukha","Dviradapura","Rajavihara","Amarendrapura","Phanom Rung","Isvarapura","Muang Tam",
