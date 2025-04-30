@@ -264,6 +264,12 @@
 				"prerequisites": ["Craftsmanship"],
 				"quote": "'The dedicated study of structures from a military perspective ushers in ideas for devious defenses and formidable weapons.' - Humankind"
 			},
+			{
+				"name": "Theology",
+				"row": 2,
+				"prerequisites": ["Philosophy","Drama and Poetry"],
+				"quote": "'Three things are necessary for the salvation of man: to know what he ought to believe; to know what he ought to desire; and to know what he ought to do' - St. Thomas Aquinas"
+			},
 		],
 	},
 ]
