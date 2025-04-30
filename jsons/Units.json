@@ -97,6 +97,8 @@
 		"strength": 12,
 		"cost": 75,
 		"requiredTech": "Iron Working",
+		"upgradesTo": "Man-at-Arms",
+		"obsoleteTech": "Steel",
 		"requiredResource": "Iron",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
@@ -156,10 +158,10 @@
 		"name": "Pikeman",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 16,
+		"strength": 15,
 		"cost": 90,
 		"requiredTech": "Civil Service",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"uniques": ["[+60]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -210,5 +212,15 @@
 			"[+1] Sight", "Only available <when religion is enabled>", "Unbuildable", "Religious Unit"
 		],
 		"movement": 3
+	},
+	{
+		"name": "Man-at-Arms",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 16,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"requiredResource": "Iron",
+		"attackSound": "metalhit"
 	},
 ]
