@@ -24,7 +24,7 @@
 
     "outerColor": [254,250,248],
     "innerColor": [228,8,10],
-    "favoredReligion": "",
+    "favoredReligion": "Protestantism",
     "uniqueName": "Rule Britannia",
     "uniques": ["[+15]% [Gold] [in all cities connected to capital]","[+15]% [Science] [in all cities connected to capital]"],
     "cities": ["London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
