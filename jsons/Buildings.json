@@ -207,7 +207,6 @@
 		"faith": 1,
 		"culture": 3,
 		"happiness": 1,
-		"specialistSlots": {"Artist": 1},
 		"uniques": ["Unbuildable", "Only available <when religion is enabled>"]
 	},
 	{
