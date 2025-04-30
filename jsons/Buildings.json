@@ -185,5 +185,12 @@
 		"percentStatBonus": {"production": 10},
 		"requiredTech": "Apprenticeship"
 	},
+	{
+		"name": "Barracks",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Military Architecture"
+	},
 
 ]
