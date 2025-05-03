@@ -174,7 +174,7 @@
             {
                 "name": "Rule by Few",
                 "uniques": [
-                    "[+20]% [Culture] from every [Culture] <in [Capital] cities>",],
+                    "[+20]% [Culture] from every [Culture] <in [Capital] cities>"],
                 "row": 1,
                 "column": 4
             },
