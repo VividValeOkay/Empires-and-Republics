@@ -234,5 +234,14 @@
 		"happiness": 2,
 		"uniques": ["Unbuildable", "Only available <when religion is enabled>"]
 	},
+	{
+		"name": "University",
+		"maintenance": 2,
+		"science": 4,
+		"hurryCostModifier": 15,
+		"requiredBuilding": "Library",
+		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Education"
+	},
 
 ]
