@@ -360,7 +360,7 @@
 		"attacked": "Strong words, but they quaver on your lips. Already I see you weaken in fear...",
 		"defeated": "My warriors have failed, and so I failed them.",
 		"outerColor": [0, 0, 0],
-		"innerColor": [146, 221, 10],
+		"innerColor": [116,55,25],
 		"cities": ["Ulundi"]
 	},
 ]
