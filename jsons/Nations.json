@@ -350,6 +350,7 @@
 		"defeated": "The hard-shelled crab yields, and the lion lies down to sleep. Kanaloa comes for me now.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,255,75],
+		"uniques": ["Enables [All] units to enter ocean tiles"],
 		"cities": ["Honolulu"]
 	},
 	{
