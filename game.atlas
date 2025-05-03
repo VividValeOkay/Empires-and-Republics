@@ -13,147 +13,161 @@ NationIcons/Khmer
   index: -1
 NationIcons/Sumer
   rotate: false
-  xy: 112, 4
+  xy: 220, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Seljuks
   rotate: false
-  xy: 220, 4
+  xy: 328, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Soviets
   rotate: false
-  xy: 328, 4
+  xy: 436, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Shia Islam
+  rotate: false
+  xy: 112, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Sunni Islam
+  rotate: false
+  xy: 112, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archer-African
   rotate: false
-  xy: 436, 76
+  xy: 544, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archer-Indian
   rotate: false
-  xy: 436, 40
+  xy: 544, 40
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Horseman-Asia
   rotate: false
-  xy: 476, 76
+  xy: 584, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Man-at-Arms
   rotate: false
-  xy: 436, 4
+  xy: 544, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Neolithic Spearman
   rotate: false
-  xy: 476, 40
+  xy: 584, 40
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Settler-African
   rotate: false
-  xy: 516, 75
+  xy: 624, 75
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Settler-Indian
   rotate: false
-  xy: 556, 75
+  xy: 664, 75
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Slinger
   rotate: false
-  xy: 476, 4
+  xy: 584, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Slinger-African
   rotate: false
-  xy: 516, 39
+  xy: 624, 39
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Slinger-Indian
   rotate: false
-  xy: 596, 76
+  xy: 704, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spearman-Asia
   rotate: false
-  xy: 556, 39
+  xy: 664, 39
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spearman-Rome
   rotate: false
-  xy: 596, 40
+  xy: 704, 40
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-Asia
   rotate: false
-  xy: 636, 76
+  xy: 744, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-Rome
   rotate: false
-  xy: 636, 40
+  xy: 744, 40
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-African
   rotate: false
-  xy: 676, 76
+  xy: 784, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-Indian
   rotate: false
-  xy: 676, 40
+  xy: 784, 40
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-African
   rotate: false
-  xy: 716, 76
+  xy: 824, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Indian
   rotate: false
-  xy: 716, 40
+  xy: 824, 40
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
