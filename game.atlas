@@ -1,124 +1,145 @@
 
 game.png
-size: 512, 256
+size: 1024, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Khmer
   rotate: false
-  xy: 112, 148
+  xy: 644, 140
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Sumer
   rotate: false
-  xy: 220, 40
+  xy: 860, 140
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Seljuks
   rotate: false
-  xy: 328, 148
+  xy: 212, 32
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Soviets
   rotate: false
-  xy: 328, 40
+  xy: 320, 32
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Baha'i Faith
   rotate: false
-  xy: 4, 148
+  xy: 212, 140
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Brahmanism
   rotate: false
-  xy: 4, 40
+  xy: 320, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Catholicism
+  rotate: false
+  xy: 428, 140
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Protestantism
   rotate: false
-  xy: 112, 40
+  xy: 428, 140
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+ReligionIcons/Eastern Orthodoxy
+  rotate: false
+  xy: 536, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Lutheranism
+  rotate: false
+  xy: 4, 40
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 ReligionIcons/Shia Islam
   rotate: false
-  xy: 220, 148
+  xy: 752, 140
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Sunni Islam
   rotate: false
-  xy: 220, 148
+  xy: 752, 140
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archer-African
   rotate: false
-  xy: 4, 4
+  xy: 968, 212
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archer-Indian
   rotate: false
-  xy: 436, 220
+  xy: 4, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Horseman-Asia
   rotate: false
-  xy: 476, 220
+  xy: 428, 104
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Man-at-Arms
   rotate: false
-  xy: 44, 4
+  xy: 968, 176
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Neolithic Spearman
   rotate: false
-  xy: 436, 184
+  xy: 44, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Settler-African
   rotate: false
-  xy: 476, 183
+  xy: 428, 67
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Settler-Indian
   rotate: false
-  xy: 436, 147
+  xy: 468, 103
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Slinger
   rotate: false
-  xy: 476, 147
+  xy: 968, 140
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -132,14 +153,14 @@ TileSets/FantasyHex/Units/Slinger-African
   index: -1
 TileSets/FantasyHex/Units/Slinger-Indian
   rotate: false
-  xy: 436, 111
+  xy: 468, 67
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spearman-Asia
   rotate: false
-  xy: 476, 111
+  xy: 508, 104
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -153,14 +174,14 @@ TileSets/FantasyHex/Units/Spearman-Rome
   index: -1
 TileSets/FantasyHex/Units/Swordsman-Asia
   rotate: false
-  xy: 436, 75
+  xy: 508, 68
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-Rome
   rotate: false
-  xy: 476, 75
+  xy: 548, 104
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -174,21 +195,21 @@ TileSets/FantasyHex/Units/Warrior-African
   index: -1
 TileSets/FantasyHex/Units/Warrior-Indian
   rotate: false
-  xy: 204, 4
+  xy: 548, 68
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-African
   rotate: false
-  xy: 244, 4
+  xy: 588, 104
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Indian
   rotate: false
-  xy: 284, 4
+  xy: 588, 68
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
