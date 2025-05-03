@@ -223,4 +223,14 @@
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
 	},
+	{
+		"name": "Crossbowman",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 12,
+		"rangedStrength": 16,
+		"cost": 120,
+		"requiredTech": "Machinery",
+		"attackSound": "crossbow"
+	},
 ]
