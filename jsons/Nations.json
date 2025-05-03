@@ -215,6 +215,31 @@
     "cities": ["Angkor Wat","Hariharalya","Yaodharapura","Mahendraparvata","Vimayapura","Indrapura","Lingapura","Preah Vihear","Bhavapura","Kompong Svay","Nagara Jayasri","Vyadhapura","Chaturmukha","Dviradapura","Rajavihara","Amarendrapura","Phanom Rung","Isvarapura","Muang Tam",
 	    "Angkor Borei","Banteay Kdei","Phetchaburi","Chaiya","Isanapura","Pre Rup","Beng Melea","Lavodayapura","Shrestapura","Aninditapura"],
   },
+ {
+    "name": "The Seljuks",
+    "style": "Arabic",
+    "leaderName": "Malik-Shah I",
+    "adjective": ["Seljuk"],
+    "startBias": ["Desert"],
+
+    "declaringWar": "The world will be more beautiful without you. Prepare for war.",
+    "attacked": "Fool! You will soon regret dearly! I swear it!",
+    "defeated": "You have won, congratulations. My palace is now in your possession, and I beg that you care well for the peacock.",
+    "introduction": "Welcome foreigner, I am Malik-Shah I, Sultun of the Seljuk Empire. Come and tell me about your empire.",
+    "neutralHello": "Peace be upon you.",
+    "hateHello": "Oh, it's you.",
+
+    "tradeRequest": "Come forth, let's do business.",
+
+    "outerColor": [43,88,46],
+    "innerColor": [146,221,10],
+    "favoredReligion": "Sunni Islam",
+    "uniqueName": "Seljuk Empire",
+    "uniques": ["[+1 Faith] from all [Science] buildings","[+15]% Production when constructing [Science] buildings [in all cities]"],
+    "cities": ["Isfahan","Mecca","Damascus","Baghdad","Nishapur","Kufah","Herat","Basra","Anjar","Tehran","Aden","Muscat","Yamama","Bukhara","Shiraz","Merw","Balkh","Mosul",
+			"Aydab","Bayt","Suhar","Taif","Hama","Tabuk","Sana'a","Shihr","Tripoli","Tunis","Kairouan","Oran"],
+  },
+
 
 
 
