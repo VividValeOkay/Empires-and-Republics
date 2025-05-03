@@ -12,7 +12,7 @@
       // Behavour focused personalities
       "military": 6,
       "aggressive": 6,
-      "declareWar": 6,
+      "declareWar": 5,
       "commerce": 4,
       "diplomacy": 4,
       "loyal": 4,
@@ -64,7 +64,7 @@
       // Behavour focused personalities
       "military": 7,
       "aggressive": 7,
-      "declareWar": 6,
+      "declareWar": 7,
       "commerce": 6,
       "diplomacy": 7,
       "loyal": 5,
@@ -77,4 +77,32 @@
           "Oligarchy": 3,
       },
       },
+ {
+      "name": "Chandragupta",
+      // Stats focused personalities
+      "culture": 6,
+      "faith": 4,
+      "food": 5,
+      "gold": 6,
+      "happiness": 4,
+      "production": 4,
+      "science": 4,
+      // Behavour focused personalities
+      "military": 8,
+      "aggressive": 7,
+      "declareWar": 7,
+      "commerce": 4,
+      "diplomacy": 4,
+      "loyal": 6,
+      "expansion": 8,
+
+      "priorities": {
+          "Tribalism": 5,
+          "Autocracy": 6,
+          "Classical Republic": 2,
+          "Oligarchy": 4,
+      },
+      },
+
+      
 ]
