@@ -248,8 +248,8 @@
 				"name": "Apprenticeship",
 				"row": 8,
 				"prerequisites": ["Craftsmanship"],
-                "uniques": ["[+1 Production] from [Mine] tiles [in all cities]"],
-				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
+                                "uniques": ["[+1 Production] from [Mine] tiles [in all cities]"],
+				"quote": "'There is no easy way to train an apprentice. My two tools are example and nagging.' –Lemony Snicket",
 			}
 	                {
 				"name": "Civil Service",
@@ -290,7 +290,14 @@
 				"row": 5,
 				"prerequisites": ["Theology","Civil Service"],
 				"uniques": ["Enables conversion of city production to [Science]","Enables Research agreements","[+100]% weight to this choice for AI decisions"],
-				"quote": "'Education is the best provision for old age.' - Aristotle"
+				"quote": "'The purpose of education is to replace an empty mind with an open one.' –Malcolm Forbes",
+			},
+			{
+				"name": "Machinery",
+				"row": 8,
+				"prerequisites": ["Mathematics","Construction"],
+				"uniques": ["Roads connect tiles across rivers","[+100]% weight to this choice for AI decisions"],
+				"quote": "'I’d imagine the whole world as one big machine. Machines never come with any spare parts, you know. They always come with the exact amount they need.' –Hugo Cabret",
 			},
 		],
 	}
