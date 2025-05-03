@@ -352,6 +352,7 @@
 	},
 	{
 		"name": "The Zulu",
+		"style": "African",
 		"adjective": ["Zulu"],
 		"cityStateType": "Militaristic",
 		"startBias": ["Plains","Desert"],
