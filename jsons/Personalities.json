@@ -20,8 +20,9 @@
 
       "priorities": {
           "Tribalism": 5,
-          "Autocracy": 5,
+          "Autocracy": 6,
           "Classical Republic": 2,
+          "Oligarchy": 6
       },
       },
      {
@@ -47,6 +48,33 @@
           "Tribalism": 5,
           "Autocracy": 5,
           "Classical Republic": 3,
+          "Oligarchy": 4,
+      },
+      },
+  {
+      "name": "Caesar",
+      // Stats focused personalities
+      "culture": 5,
+      "faith": 3,
+      "food": 4,
+      "gold": 5,
+      "happiness": 6,
+      "production": 4,
+      "science": 4,
+      // Behavour focused personalities
+      "military": 7,
+      "aggressive": 7,
+      "declareWar": 6,
+      "commerce": 6,
+      "diplomacy": 7,
+      "loyal": 5,
+      "expansion": 8,
+
+      "priorities": {
+          "Tribalism": 5,
+          "Autocracy": 8,
+          "Classical Republic": 2,
+          "Oligarchy": 3,
       },
       },
 ]
