@@ -115,6 +115,7 @@
     "leaderName": "Julius Caesar",
     "adjective": ["Roman"],
     "startBias": ["Grassland"],
+    "personality": "Caesar",
 
     "declaringWar": "My treasury contains little and my soldiers are getting impatient... (sigh) ...therefore you must die.",
     "attacked": "Ambitious. You seek to conquer me before I move on you. I approve.",
