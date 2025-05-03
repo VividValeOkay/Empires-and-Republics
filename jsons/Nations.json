@@ -142,6 +142,7 @@
     "leaderName": "Wilhelm II",
     "adjective": ["German"],
     "startBias": ["Grassland"],
+    "personality": "Wilhelm II",
 
     "declaringWar": "I cannot wait until ye grow even mightier. Therefore, prepare for war!",
     "attacked": "What? Really?",
