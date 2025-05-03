@@ -125,8 +125,34 @@
           "Classical Republic": 2,
           "Oligarchy": 6,
 
-    },
   },
+  },
+ {
+      "name": "Vladimir",
+      // Stats focused personalities
+      "culture": 4,
+      "faith": 1,
+      "food": 6,
+      "gold": 6,
+      "happiness": 4,
+      "production": 7,
+      "science": 5,
+      // Behavour focused personalities
+      "military": 7,
+      "aggressive": 7,
+      "declareWar": 5,
+      "commerce": 4,
+      "diplomacy": 4,
+      "loyal": 5,
+      "expansion": 7,
+
+      "priorities": {
+          "Tribalism": 5,
+          "Autocracy": 6,
+          "Classical Republic": 3,
+          "Oligarchy": 6,
+      },
+      },
 
       
 ]
