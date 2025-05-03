@@ -73,7 +73,7 @@
             "Domination": 10,
             "Scientific": 4
         },
-        "uniques": ["[+2 Culture] [in capital]","Only available <before adopting [Classical Republic]>"],
+        "uniques": ["[+2 Culture] [in capital]","Only available <before adopting [Classical Republic]>","Only available <before adopting [Oligarchy]>"],
         "policies": [
             {
                 "name": "God king",
@@ -88,7 +88,6 @@
                 "uniques": [
                     "Can build [all] improvements at a [+25]% rate",
                     "Free [Worker] appears",
-                    "[-100]% weight to this choice for AI decisions"
                 ],
                 "row": 1,
                 "column": 4
@@ -118,7 +117,7 @@
             "Domination": 3,
             "Scientific": 8
         },
-        "uniques": ["[+2 Culture] [in capital]","Only available <before adopting [Autocracy]>"],
+        "uniques": ["[+2 Culture] [in capital]","Only available <before adopting [Autocracy]>","Only available <before adopting [Oligarchy]>"],
         "policies": [
             {
                 "name": "Rule of Law",
@@ -152,6 +151,39 @@
             }
         ]
     },
+      {
+        "name": "Oligarchy",
+        "era": "Classical era",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 4,
+            "Diplomatic": 2,
+            "Domination": 10,
+            "Scientific": 4
+        },
+        "uniques": ["[+15]% Strength <for [all] units>","Only available <before adopting [Classical Republic]>","Only available <before adopting [Autocracy]>"],
+        "policies": [
+            {
+                "name": "Public Obedience",
+                "uniques": [
+                    "[+1 Culture, +1 Faith] [in all cities] <when above [5] Happiness>",
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Rule by Few",
+                "uniques": [
+                    "[+20]% [Culture] from every [Culture] <in [Capital] cities>",],
+                "row": 1,
+                "column": 4
+            },
+            {
+                "name": "Oligarchy Complete",
+                "uniques": ["[+2] XP gained from combat <for [Land] units>"]
+            }
+                           ]
+            },
 ]
 
 
