@@ -90,6 +90,7 @@
     "style": "Indian",
     "leaderName": "Chandragupta",
     "adjective": ["Indian"],
+    "personality": "Chandragupta",
 
     "declaringWar": "Your territory could be much improved under Indian rule. Best I see it through.",
     "attacked": "India does not fear war. The most you can do is slow our rightful advance.",
