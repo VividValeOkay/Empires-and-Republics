@@ -350,6 +350,19 @@
 		"innerColor": [255,255,75],
 		"cities": ["Honolulu"]
 	},
+	{
+		"name": "The Zulu",
+		"adjective": ["Zulu"],
+		"cityStateType": "Militaristic",
+		"startBias": ["Plains","Desert"],
+
+		"declaringWar": "None will slow our progress, not even you! Prepare for war!",
+		"attacked": "Strong words, but they quaver on your lips. Already I see you weaken in fear...",
+		"defeated": "My warriors have failed, and so I failed them.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [146, 221, 10],
+		"cities": ["Ulundi"]
+	},
 ]
 	
 	// Barbarians wip
