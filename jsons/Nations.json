@@ -34,6 +34,7 @@
   },
     {
     "name": "Sumer",
+    "style": "Arabic",
     "leaderName": "Gilgamesh",
     "adjective": ["Sumerian"],
     "startBias": ["Desert","Flood plains"]
@@ -277,6 +278,7 @@
 	},
 	{
 		"name": "Afghanistan",
+		"style": "Arabic",
 		"adjective": ["Afghan"],
 		"cityStateType": "Religious",
 
