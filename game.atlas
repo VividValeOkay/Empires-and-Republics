@@ -95,121 +95,191 @@ TileSets/FantasyHex/Units/Archer-African
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Archer-Indian
+TileSets/FantasyHex/Units/Archer-Arabic
   rotate: false
   xy: 4, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Horseman-Asia
+TileSets/FantasyHex/Units/Archer-Indian
   rotate: false
   xy: 428, 104
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Man-at-Arms
+TileSets/FantasyHex/Units/Crossbowman-Arabic
   rotate: false
   xy: 968, 176
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Neolithic Spearman
+TileSets/FantasyHex/Units/Horseman-Asia
   rotate: false
   xy: 44, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Settler-African
+TileSets/FantasyHex/Units/Man-at-Arms
   rotate: false
-  xy: 428, 67
-  size: 32, 29
-  orig: 32, 29
+  xy: 428, 68
+  size: 32, 28
+  orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Settler-Indian
+TileSets/FantasyHex/Units/Man-at-Arms-Arabic
   rotate: false
-  xy: 468, 103
-  size: 32, 29
-  orig: 32, 29
+  xy: 468, 104
+  size: 32, 28
+  orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Slinger
+TileSets/FantasyHex/Units/Neolithic Spearman
   rotate: false
   xy: 968, 140
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Slinger-African
+TileSets/FantasyHex/Units/Neolithic Spearman-Arabic
   rotate: false
   xy: 84, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Slinger-Indian
+TileSets/FantasyHex/Units/Settler-African
+  rotate: false
+  xy: 428, 31
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Settler-Arabic
   rotate: false
   xy: 468, 67
-  size: 32, 28
-  orig: 32, 28
+  size: 32, 29
+  orig: 32, 29
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Spearman-Asia
+TileSets/FantasyHex/Units/Settler-Indian
   rotate: false
-  xy: 508, 104
-  size: 32, 28
-  orig: 32, 28
+  xy: 508, 103
+  size: 32, 29
+  orig: 32, 29
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Spearman-Rome
+TileSets/FantasyHex/Units/Slinger
   rotate: false
   xy: 124, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Swordsman-Asia
+TileSets/FantasyHex/Units/Slinger-African
   rotate: false
-  xy: 508, 68
+  xy: 468, 31
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Swordsman-Rome
+TileSets/FantasyHex/Units/Slinger-Arabic
+  rotate: false
+  xy: 508, 67
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Slinger-Indian
   rotate: false
   xy: 548, 104
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Warrior-African
+TileSets/FantasyHex/Units/Spearman-Arabic
   rotate: false
   xy: 164, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Warrior-Indian
+TileSets/FantasyHex/Units/Spearman-Asia
+  rotate: false
+  xy: 508, 31
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Spearman-Rome
   rotate: false
   xy: 548, 68
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Worker-African
+TileSets/FantasyHex/Units/Swordsman-Arabic
   rotate: false
   xy: 588, 104
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Worker-Indian
+TileSets/FantasyHex/Units/Swordsman-Asia
+  rotate: false
+  xy: 548, 32
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Swordsman-Rome
   rotate: false
   xy: 588, 68
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Warrior-African
+  rotate: false
+  xy: 628, 104
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Warrior-Arabic
+  rotate: false
+  xy: 588, 32
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Warrior-Indian
+  rotate: false
+  xy: 628, 68
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-African
+  rotate: false
+  xy: 668, 104
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-Arabic
+  rotate: false
+  xy: 628, 32
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-Indian
+  rotate: false
+  xy: 668, 68
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
