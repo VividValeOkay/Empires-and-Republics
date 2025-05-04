@@ -54,7 +54,7 @@
 		"name": "Library",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["[+1 Science] per [4] population [in this city]","[+1 Happiness] per [6] population [in this city]"],
+		"uniques": ["[+1 Science] per [4] population [in this city]","[+1 Happiness] per [8] population [in this city]"],
 		"requiredTech": "Writing",
 	},
 	{
@@ -82,7 +82,7 @@
 	},
 	{
 		"name": "Commons Quarters",
-		"happiness": 2,
+		"happiness": 1,
 		"hurryCostModifier": 25,
 		"requiredTech": "Carpentry"
 	},
