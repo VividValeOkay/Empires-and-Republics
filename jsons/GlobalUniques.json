@@ -10,6 +10,6 @@
     "[-30]% [Production] [in all cities] <when below [-10] Happiness>",
     "[-15]% [Gold] [in all cities] <when below [-8] Happiness>",
     "[-35]% [Gold] [in all cities] <when below [-12] Happiness>",
-    "[+15]% [Gold] [in all cities] <when above [12] Happiness>",
+    "[+15]% [Gold] [in all cities] <when above [18] Happiness>",
   ]
 }
