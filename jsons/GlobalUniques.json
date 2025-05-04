@@ -5,5 +5,11 @@
     "Can only start games from the starting era",
     "Cannot build [Water] units <in cities without a [Port]>",
     "Enables [All] units to enter ocean tiles <for [Hawai'i] Civilizations>",
+    "Rebel units may spawn <when below [-8] Happiness>",
+    "[-10]% [Production] [in all cities] <when below [-5] Happiness>",
+    "[-30]% [Production] [in all cities] <when below [-10] Happiness>",
+    "[-15]% [Gold] [in all cities] <when below [-8] Happiness>",
+    "[-35]% [Gold] [in all cities] <when below [-12] Happiness>",
+    "[+15]% [Gold] [in all cities] <when above [12] Happiness>".
   ]
 }
