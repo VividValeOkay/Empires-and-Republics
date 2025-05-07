@@ -65,4 +65,22 @@
         "citySound": "cityMedieval",
         "iconRGB": [157, 39, 176]
     },
+     {
+        "name": "Renaissance era",
+        "researchAgreementCost": 250,
+        "startingSettlerCount": 2,
+        "startingWorkerCount": 1,
+        "startingMilitaryUnitCount": 3,
+        "startingMilitaryUnit": "Pikeman",
+        "startingGold": 50,
+        "startingCulture": 300,
+        "settlerPopulation": 2,
+        "settlerBuildings": ["Shrine","Monument","Granary"],
+        "startingObsoleteWonders": ["Temple of Artemis", "Stonehenge","The Pyramids", "Statue of Zeus"],
+        "baseUnitBuyCost": 300,
+        "embarkDefense": 8,
+        "startPercent": 37,
+        "citySound": "cityRenaissance",
+        "iconRGB": [104, 58, 183]
+    },
 ]
