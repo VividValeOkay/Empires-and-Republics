@@ -248,14 +248,14 @@
     "adjective": ["Danish","Norwegian"],
     "startBias": ["Coast","Tundra"],
 
-    "declaringWar": "The world will be more beautiful without you. Prepare for war.",
-    "attacked": "Fool! You will soon regret dearly! I swear it!",
-    "defeated": "You have won, congratulations. My palace is now in your possession, and I beg that you care well for the peacock.",
-    "introduction": "Welcome foreigner, I am Malik-Shah I, Sultun of the Seljuk Empire. Come and tell me about your empire.",
-    "neutralHello": "Peace be upon you.",
+    "declaringWar": "If I am to be honest, I tire of those pointless charades. Why don't we settle our disputes on the field of battle, like true men? Perhaps the skalds will sing of your valor... or mine!",
+    "attacked": "Ha ha ha, we will be very glad to head out to war again.",
+    "defeated": "So the union is now yours, won't be long 'till those norwegians break against your horrid rule!",
+    "introduction": "So you finally climbed north! You are sure to be inpressed by true danish art, more than those... German ones...",
+    "neutralHello": "Oh, welcome!",
     "hateHello": "Oh, it's you.",
 
-    "tradeRequest": "Come forth, let's do business.",
+    "tradeRequest": "This is a fine deal! Even a drunk beggar would agree!",
 
     "outerColor": [51,25,0],
     "innerColor": [63,3,244],
