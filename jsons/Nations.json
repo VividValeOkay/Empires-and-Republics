@@ -257,8 +257,8 @@
 
     "tradeRequest": "This is a fine deal! Even a drunk beggar would agree!",
 
-    "outerColor": [63,3,244],
-    "innerColor": [51,25,0],
+    "outerColor": [51,25,0],
+    "innerColor": [255,255,102],
     "favoredReligion": "Lutheranism",
     "uniqueName": "Great Northern Union",
     "uniques": ["Enables embarkation for land units","[+15]% Production when constructing [Science] buildings [in all cities]"],
