@@ -369,15 +369,15 @@
 		"innerColor": [116,55,25],
 		"cities": ["Ulundi"]
 	},
-]
 	
 	// Barbarians wip
-//	{
-//		"name": "Barbarians",
-//		"outerColor": [0,0,0],
- //       "innerColor": [185,12,12],
-//		"uniques": ["Can only heal by pillaging", "Excluded from map editor",
-//			"[Water] units gain the [Unable to pillage tiles] promotion"]
-//	}
+	{
+                "name": "Barbarians",
+		"outerColor": [0,0,0],
+                "innerColor": [185,12,12],
+		"uniques": ["Can only heal by pillaging", "Excluded from map editor",
+			"[Water] units gain the [Unable to pillage tiles] promotion"]
+	}
+]
 
     
