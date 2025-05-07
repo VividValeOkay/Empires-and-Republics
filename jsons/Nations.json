@@ -261,7 +261,7 @@
     "innerColor": [63,3,244],
     "favoredReligion": "Lutheranism",
     "uniqueName": "Great Northern Union",
-    "uniques": ["[+1 Faith] from all [Science] buildings","[+15]% Production when constructing [Science] buildings [in all cities]"],
+    "uniques": ["Enables embarkation for land units","[+15]% Production when constructing [Science] buildings [in all cities]"],
     "cities": ["Copenhagen","Oslo","Aarhus","Kaupang","Ribe","Viborg","Tunsberg","Roskilde","Hedeby","Jelling","Truso","Bergen","Faeroerne","Reykjavik","Trondheim","Godthab","Helluland","Lillehammer","Markland","Elsinore",
 			"Sarpsborg","Odense","Aalborg","Stavanger","Vorbasse","Schleswig","Kristiansand","Halogaland","Randers","Fredrikstad","Kolding","Horsens","Tromsoe","Vejle","Koge","Sandnes"],
   },
