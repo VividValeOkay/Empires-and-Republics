@@ -322,6 +322,12 @@
 				"prerequisites": ["Machinery","Education"],
 				"quote": "'Joyfully to the breeze royal Odysseus spread his sail, and with his rudder skillfully he steered.' - Homer"
 			},
+			{
+				"name": "Gunpowder",
+				"row": 8,
+				"prerequisites": ["Steel","Machinery"],
+				"quote": "'I’d imagine the whole world as one big machine. Machines never come with any spare parts, you know. They always come with the exact amount they need.' –Hugo Cabret",
+			},
 		],
 	}
 ]
