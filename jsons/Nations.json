@@ -15,6 +15,7 @@
     "declaringWar": "As our protests are in vain, we hereby declare war.",
     "attacked": "You won't win this war!",
     "defeated": "The sun sets on the empire...",
+    "denounced": "We will have nothing to do with your administration. You are hereby denounced.",
     "introduction": "Greetings. We are by the Grace of God, Victoria, Queen of the United Kingdom of Great Britain and Ireland. And soon, dare I say, the empire.",
 
     "neutralHello": "Good morning",
@@ -42,6 +43,7 @@
     "declaringWar": "The demon wants the blood of soldiers!",
     "attacked": "I will enjoy hearing your last breath as you witness the destruction of your people.",
     "defeated": "It is over. Perhaps now I shall have peace, at last.",
+    "denounced": "Hah! Gilgamesh is stronger than your false words.",
     "introduction": "I am Gilgamesh of Sumer and king of Uruk. Do not be afraid, I am good to my friends.",
 
     "neutralHello": "Hello!",
@@ -69,6 +71,7 @@
     "declaringWar": "I do not support of your rule, I must destroy you!",
     "attacked": "You may as well seek to conquer heaven itself. Let us see how high your arrows fly.",
     "defeated": "Even if I am defeated, my father would be proud of my actions...",
+    "denounced": "The barking of dogs.",
     "introduction": "I am the Yongle Emperor, friend to those who would steer their trade ships in my direction, and terrible to those who oppose me.",
 
     "neutralHello": "How are you today?",
@@ -96,6 +99,7 @@
     "declaringWar": "Your territory could be much improved under Indian rule. Best I see it through.",
     "attacked": "India does not fear war. The most you can do is slow our rightful advance.",
     "defeated": "You learned my own lessons far too well. I instructed you in my own demise.",
+    "denounced": "Though I ignore your cruel words, India will long remember them.",
     "introduction": "I am Chandragupta, Mauryan emperor of unified India. No, it has not gone to my head.",
 
     "neutralHello": "You travel near Indian territory. Why not visit and relax at our grand stepwells?",
@@ -122,6 +126,7 @@
     "declaringWar": "My treasury contains little and my soldiers are getting impatient... (sigh) ...therefore you must die.",
     "attacked": "Ambitious. You seek to conquer me before I move on you. I approve.",
     "defeated": "Tu quoque? Then fall Caesar.",
+    "denounced": "You had better mean what you say. I, for one, do not make idle threats.",
     "introduction": "I am Caesar, destroyer of conspiracies in the Alpine woods and the Senate alike.",
 
     "neutralHello": "Hail.",
@@ -148,6 +153,7 @@
     "declaringWar": "I cannot wait until ye grow even mightier. Therefore, prepare for war!",
     "attacked": "What? Really?",
     "defeated": "Germany has been destroyed. I weep for the future generations.",
+    "denounced": "That’s… that's not very nice of you.",
     "introduction": "Guten Tag. In the name of the great German people, I bid you welcome.",
 
     "neutralHello": "What now?",
@@ -176,6 +182,7 @@
     "declaringWar": "You've behaved yourself very badly, you know it. Now it's payback time.",
     "attacked": "Corrupted villain! We will bring you into the ground!",
     "defeated": "No, this is no defeat; this is but a pillar upon which the hearts of working men will gaze and be inspired; to rise up against you and topple your corrupt tyranny.",
+    "denounced": "My people live through winters more dangerous than your army. Do you think we’re afraid of your threats?",
     "introduction": "I am Vladimir Lenin and I lead a nation of working men. You will find no welcome for tyrants and merchant-lords here. All men willing to be equal, are equal in this land.",
 
     "neutralHello": "Hello!",
@@ -203,6 +210,7 @@
     "declaringWar": "Your actions reveal your desire for war. The Khmer shall oblige you.",
     "attacked": "War, then? Fools think fortune is on their side. Who will you blame when yours runs out?",
     "defeated": "One gains humility in defeat. I pray you are granted the most humility of all...",
+    "denounced": "You defy Heaven with your harsh words. It must be a familiar feeling!",
     "introduction": "I am Jayavarman VII, and the Khmer allow me to lead them. Their suffering is my suffering.",
 
     "neutralHello": "Welcome.",
@@ -228,6 +236,7 @@
     "declaringWar": "The world will be more beautiful without you. Prepare for war.",
     "attacked": "Fool! You will soon regret dearly! I swear it!",
     "defeated": "You have won, congratulations. My palace is now in your possession, and I beg that you care well for the peacock.",
+    "denounced": "Everyone is critical of the flaws of others, but blind to their own.",
     "introduction": "Welcome foreigner, I am Malik-Shah I, Sultun of the Seljuk Empire. Come and tell me about your empire.",
     "neutralHello": "Peace be upon you.",
     "hateHello": "Oh, it's you.",
@@ -251,6 +260,7 @@
     "declaringWar": "If I am to be honest, I tire of those pointless charades. Why don't we settle our disputes on the field of battle, like true men? Perhaps the skalds will sing of your valor... or mine!",
     "attacked": "Ha ha ha, we will be very glad to head out to war again.",
     "defeated": "So the union is now yours, won't be long 'till those norwegians break against your horrid rule!",
+    "denounced": "Hah, I’ve burned kingdoms for lesser insults. You'll pay for this.",
     "introduction": "So you finally climbed north! You are sure to be inpressed by true danish art, more than those... German ones...",
     "neutralHello": "Oh, welcome!",
     "hateHello": "Oh, it's you.",
